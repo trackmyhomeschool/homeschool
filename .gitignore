@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.env.*
+
+
+# React build
+client/build/
+frontend/build/
+
+# Python
+*.pyc
+__pycache__/
+.diploma_env/
+*.pyo
+*.pyd
+.Python
+*.env
+*.venv
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-log.txt
+
+# Flask
+diploma/instance/
+diploma/__pycache__/
+diploma/*.pyc
+
+# VS Code & OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Other
+*.sqlite3
+coverage/
+*.sqlite
+*.db
+
+# Mac
+Icon?

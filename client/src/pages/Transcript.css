@@ -1,0 +1,122 @@
+
+
+/* Export button container */
+.export-bar {
+  background:  #f8f9fc;
+  padding: 10px 15%;
+  text-align: right;
+}
+
+/* Center wrapper for exportable content */
+.export-wrapper {
+  display: flex;
+  justify-content: center;
+  background-color:  #f8f9fc;
+  padding: 30px 0;
+}
+
+/* Main transcript box */
+.transcript-container {
+  background-color:  white;
+  color: black;
+  padding: 30px;
+  width: 100%;
+  max-width: 900px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+/* Header */
+.black-header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+/* Student Info */
+.student-info-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.name-bold {
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+}
+
+.school-name {
+  font-weight: bold;
+  font-size: 16px;
+  color: #003366;
+}
+
+.student-left p,
+.student-right p {
+  margin: 2px 0;
+}
+
+/* Table */
+.courses-box {
+  border: 1px solid #000;
+  margin-bottom: 15px;
+}
+
+.table-header, .table-row {
+  display: flex;
+  padding: 8px 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.table-header {
+  font-weight: bold;
+  background-color: #f8f8f8;
+}
+
+.table-row:last-child {
+  border-bottom: none;
+}
+
+.table-header div,
+.table-row div {
+  flex: 1;
+  text-align: left;
+}
+
+.w-50 {
+  flex: 2;
+}
+
+/* Summary */
+.transcript-summary {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+/* GPA Scale */
+.transcript-scale {
+  font-size: 13px;
+  margin-top: 30px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+/* Export Button */
+.export-button {
+  background-color: #1a202c;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.export-button:hover {
+  background-color: #2d3748;
+}

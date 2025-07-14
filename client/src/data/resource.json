@@ -1,0 +1,4100 @@
+[{
+  "title": "SK Learning Center",
+  "price": null,
+  "categoryName": "Tutoring service",
+  "address": "3360 Shore Pkwy 2ND FLOOR, Brooklyn, NY 11235",
+  "neighborhood": "Sheepshead Bay",
+  "street": "3360 Shore Pkwy 2ND FLOOR",
+  "city": "Brooklyn",
+  "postalCode": "11235",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.skacademynyc.com/",
+  "phone": "(646) 416-0060",
+  "phoneUnformatted": "+16464160060",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.584085,
+    "lng": -73.951495
+  },
+  "totalScore": 4.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJmUH78f1FwokRA3uZI5WuRZc",
+  "categories": [
+    "Tutoring service",
+    "After school program",
+    "Chess club",
+    "English language school",
+    "Foreign languages program school",
+    "International school",
+    "Study at home school"
+  ],
+  "fid": "0x89c245fdf1fb4199:0x9745ae9523997b03",
+  "cid": "10900310428690774787",
+  "reviewsCount": 36,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.113Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 4 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Online classes": true
+      },
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      }
+    ],
+    "Planning": [
+      {
+        "Appointment required": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=SK%20Learning%20Center&query_place_id=ChIJmUH78f1FwokRA3uZI5WuRZc",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 1,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfBkxoWTYrmLzUPkWUOzuUXtUP1A1MANil9gt7oaYH-nLdSMEGWCVeTIuglRF_vnnc6_0jm0uIan_4jGYVX55XRGxd6wZWeCSZ3IRkMiwCgjKY3Wt-vyuBq_xIT0Qq5nXdRmm6=w408-h725-k-no",
+  "kgmid": "/g/11h7f6tkqr"
+},
+{
+  "title": "The Scholars Academy",
+  "price": null,
+  "categoryName": "High school",
+  "address": "320 Beach 104th St, Rockaway Park, NY 11694",
+  "neighborhood": "Rockaway Park",
+  "street": "320 Beach 104th St",
+  "city": "Rockaway Park",
+  "postalCode": "11694",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.scholarsnyc.com/",
+  "phone": "(718) 474-6918",
+  "phoneUnformatted": "+17184746918",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.5842665,
+    "lng": -73.8251698
+  },
+  "totalScore": 3.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQ6JLoDBowokRR-_3Z814JDM",
+  "categories": [
+    "High school",
+    "Public educational institution"
+  ],
+  "fid": "0x89c26830a04ba243:0x332478cd67f7ef47",
+  "cid": "3685203218703839047",
+  "reviewsCount": 13,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.114Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 4 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 4 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 4 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 4 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Scholars%20Academy&query_place_id=ChIJQ6JLoDBowokRR-_3Z814JDM",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqY0mqP4eePkIc-UIfgflkfR7fV3gOL2TyAGKsJu0AIjq9SOfRgaWSomq9ngmP27S555P2b72Z4hoIciZQQDr6V-xNpOmzbNwZtAbZxShw3aeGfWBuvJVP616t-d1005ksl6Wg=w408-h304-k-no",
+  "kgmid": "/m/02r5h9p"
+},
+{
+  "title": "Brooklyn Apple Academy",
+  "price": null,
+  "categoryName": "Education center",
+  "address": "545 5th Ave, Brooklyn, NY 11215",
+  "neighborhood": "Park Slope",
+  "street": "545 5th Ave",
+  "city": "Brooklyn",
+  "postalCode": "11215",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.brooklynappleacademy.org/",
+  "phone": "(917) 533-5977",
+  "phoneUnformatted": "+19175335977",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.665694,
+    "lng": -73.988791
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJxacKYONawokRYjjpUh4KLfk",
+  "categories": [
+    "Education center",
+    "After school program",
+    "Arts organization",
+    "Educational consultant"
+  ],
+  "fid": "0x89c25ae3600aa7c5:0xf92d0a1e52e93862",
+  "cid": "17955018414752348258",
+  "reviewsCount": 9,
+  "imagesCount": 26,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 2:45 PM, 3 to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 2:45 PM, 3 to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "2 to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      },
+      {
+        "Online classes": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible restroom": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      }
+    ],
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Apple%20Academy&query_place_id=ChIJxacKYONawokRYjjpUh4KLfk",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3ehCplzMjbY0y1JhodUxH6WTPRblHo7vIkAJl=w408-h306-k-no",
+  "kgmid": "/g/11b8t9lf9z"
+},
+{
+  "title": "Different Directions",
+  "price": null,
+  "categoryName": "Community center",
+  "address": "339 W 47th St, New York, NY 10036",
+  "neighborhood": "Manhattan",
+  "street": "339 W 47th St",
+  "city": "New York",
+  "postalCode": "10036",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.differentdirections.org/",
+  "phone": "(917) 816-1070",
+  "phoneUnformatted": "+19178161070",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7612719,
+    "lng": -73.9890735
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJIevVBVlYwokR7bNw9GCeEjw",
+  "categories": [
+    "Community center"
+  ],
+  "fid": "0x89c2585905d5eb21:0x3c129e60f470b3ed",
+  "cid": "4328696331111543789",
+  "reviewsCount": 23,
+  "imagesCount": 19,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 6 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Parking": [
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Different%20Directions&query_place_id=ChIJIevVBVlYwokR7bNw9GCeEjw",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNVaWMdZ4s0w1RW2FHp-vkaIZDOEOix0Uhf-J8z3qMvDMDF6KwpTP8rLejwaZBX4kjaqJ9m-8wGz1Yx-D4_eaQY8kSijxWsugXitfI9aZV-PmoOJmmx1DavXhhZPVPqiaoKe04=w408-h306-k-no",
+  "kgmid": "/g/11h03z0vz"
+},
+{
+  "title": "Home Instruction - Queen",
+  "price": null,
+  "categoryName": "School",
+  "address": "142-10 Linden Blvd, South Ozone Park, NY 11436",
+  "neighborhood": "South Ozone Park",
+  "street": "142-10 Linden Blvd",
+  "city": "South Ozone Park",
+  "postalCode": "11436",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.homeinstructionschools.com/queens",
+  "phone": "(718) 558-2040",
+  "phoneUnformatted": "+17185582040",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6837829,
+    "lng": -73.8012395
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJcRLeArpnwokRcnN4X3zozaw",
+  "categories": [
+    "School"
+  ],
+  "fid": "0x89c267ba02de1271:0xaccde87c5f787372",
+  "cid": "12451864165624607602",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Home%20Instruction%20-%20Queen&query_place_id=ChIJcRLeArpnwokRcnN4X3zozaw",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iKvz2sqAckyTP12xAOlTxg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=156.9262&pitch=0&thumbfov=100",
+  "kgmid": "/g/11nxglmj2z"
+},
+{
+  "title": "Remotely Learning Academy",
+  "price": null,
+  "categoryName": "Education center",
+  "address": "832 Linden Blvd apt 14A, Brooklyn, NY 11203",
+  "neighborhood": "East Flatbush",
+  "street": "832 Linden Blvd apt 14A",
+  "city": "Brooklyn",
+  "postalCode": "11203",
+  "state": "New York",
+  "countryCode": "US",
+  "phone": "(347) 675-3148",
+  "phoneUnformatted": "+13476753148",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6538619,
+    "lng": -73.927117
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJJ1Xw9iJdwokRL__sO1fAHqE",
+  "categories": [
+    "Education center"
+  ],
+  "fid": "0x89c25d22f6f05527:0xa11ec0573becff2f",
+  "cid": "11609928370307792687",
+  "reviewsCount": 0,
+  "imagesCount": 6,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as disabled-owned": true
+      },
+      {
+        "Identifies as Latino-owned": true
+      },
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Online classes": true
+      },
+      {
+        "Onsite services": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Remotely%20Learning%20Academy&query_place_id=ChIJJ1Xw9iJdwokRL__sO1fAHqE",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ErpMKEKfO8OyuvE-90n4LQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=201.91183&pitch=0&thumbfov=100",
+  "kgmid": "/g/11r6vqxm76"
+},
+{
+  "title": "Home Instruction",
+  "price": null,
+  "categoryName": "High school",
+  "address": "250 W Houston St, New York, NY 10014",
+  "neighborhood": "Manhattan",
+  "street": "250 W Houston St",
+  "city": "New York",
+  "postalCode": "10014",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.homeinstructionschools.com/",
+  "phone": "(646) 486-3557",
+  "phoneUnformatted": "+16464863557",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7291044,
+    "lng": -74.0062855
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJG8SkoIJZwokRBbde5HiGtCY",
+  "categories": [
+    "High school",
+    "School",
+    "Special education school",
+    "Study at home school"
+  ],
+  "fid": "0x89c25982a0a4c41b:0x26b48678e45eb705",
+  "cid": "2789001923034789637",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Home%20Instruction&query_place_id=ChIJG8SkoIJZwokRBbde5HiGtCY",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gtY-ZPFef2yEioL8-hwYXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.23447&pitch=0&thumbfov=100",
+  "kgmid": "/g/11q8khsn4y"
+},
+{
+  "title": "Hand Over Hand LLC",
+  "price": null,
+  "categoryName": "Education center",
+  "address": "85 Broad St, New York, NY 10004",
+  "neighborhood": "Manhattan",
+  "street": "85 Broad St",
+  "city": "New York",
+  "postalCode": "10004",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://handoverhandlearn.com/",
+  "phone": "(347) 988-0927",
+  "phoneUnformatted": "+13479880927",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.7040662,
+    "lng": -74.0111456
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJpYdcI85bwokRRU4Q3cXpSgM",
+  "categories": [
+    "Education center"
+  ],
+  "fid": "0x89c25bce235c87a5:0x34ae9c5dd104e45",
+  "cid": "237258966417034821",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 6:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hand%20Over%20Hand%20LLC&query_place_id=ChIJpYdcI85bwokRRU4Q3cXpSgM",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1kQPdb_kfw_2PSR7sseD6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=154.424&pitch=0&thumbfov=100",
+  "kgmid": "/g/11spvtvkxy"
+},
+{
+  "title": "Home Instruction",
+  "price": null,
+  "categoryName": "High school",
+  "address": "3450 E Tremont Ave, Bronx, NY 10465",
+  "neighborhood": "East Bronx",
+  "street": "3450 E Tremont Ave",
+  "city": "Bronx",
+  "postalCode": "10465",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.homeinstructionschools.com/",
+  "phone": "(646) 486-3557",
+  "phoneUnformatted": "+16464863557",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.8318689,
+    "lng": -73.8276624
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJsfdbzZKLwokRKSjIRyzGUIQ",
+  "categories": [
+    "High school",
+    "Elementary school",
+    "Kindergarten",
+    "Middle school",
+    "School"
+  ],
+  "fid": "0x89c28b92cd5bf7b1:0x8450c62c47c82829",
+  "cid": "9534338304628500521",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.115Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Home%20Instruction&query_place_id=ChIJsfdbzZKLwokRKSjIRyzGUIQ",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Z3cphJr89Jfwnde0s_3CQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=227.47403&pitch=0&thumbfov=100",
+  "kgmid": "/g/11rs3ckp20"
+},
+{
+  "title": "Staten Island Collaborative - Home School Co-Op",
+  "price": null,
+  "categoryName": "Education center",
+  "address": "Staten Island, NY 10306",
+  "neighborhood": null,
+  "street": null,
+  "city": "Staten Island",
+  "postalCode": null,
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.homeschool-life.com/NY/LEAH",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.5795317,
+    "lng": -74.1502007
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJk56e3CpLwokRM7QZ9lridds",
+  "categories": [
+    "Education center"
+  ],
+  "fid": "0x89c24b2adc9e9e93:0xdb75e25af619b433",
+  "cid": "15813794546885178419",
+  "reviewsCount": 0,
+  "imagesCount": null,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.116Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Staten%20Island%20Collaborative%20-%20Home%20School%20Co-Op&query_place_id=ChIJk56e3CpLwokRM7QZ9lridds",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 13,
+  "isAdvertisement": false,
+  "kgmid": "/g/11v0wxsn2s"
+},
+{
+  "title": "Homeschool Acting Studio",
+  "price": null,
+  "categoryName": "Association / Organization",
+  "address": "561 Amsterdam Ave, New York, NY 10036",
+  "neighborhood": "Manhattan",
+  "street": "561 Amsterdam Ave",
+  "city": "New York",
+  "postalCode": "10036",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.homeschoolacting.com/contact",
+  "phone": "(513) 226-1829",
+  "phoneUnformatted": "+15132261829",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.7884066,
+    "lng": -73.9740984
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfw3gf4NYwokRYpeaGAGZ5_M",
+  "categories": [
+    "Association / Organization"
+  ],
+  "fid": "0x89c258837fe00d7f:0xf3e79901189a9762",
+  "cid": "17575184300823451490",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.116Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Homeschool%20Acting%20Studio&query_place_id=ChIJfw3gf4NYwokRYpeaGAGZ5_M",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=w6xwkSJiny_STh7gDXO8sw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=16.793964&pitch=0&thumbfov=100",
+  "kgmid": "/g/11p0vxns49"
+},
+{
+  "title": "Brooklyn Academic Adventures",
+  "price": null,
+  "categoryName": "Private tutor",
+  "address": "108 Lincoln Pl 3rd Floor, Brooklyn, NY 11217",
+  "neighborhood": "Park Slope",
+  "street": "108 Lincoln Pl 3rd Floor",
+  "city": "Brooklyn",
+  "postalCode": "11217",
+  "state": "New York",
+  "countryCode": "US",
+  "phone": "(203) 804-8452",
+  "phoneUnformatted": "+12038048452",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6762644,
+    "lng": -73.9764605
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJx0Y_D6FbwokR9Wp-13z7PMM",
+  "categories": [
+    "Private tutor",
+    "Distance learning center",
+    "Educational consultant",
+    "Tutoring service"
+  ],
+  "fid": "0x89c25ba10f3f46c7:0xc33cfb7cd77e6af5",
+  "cid": "14068395849608489717",
+  "reviewsCount": 9,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.116Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Academic%20Adventures&query_place_id=ChIJx0Y_D6FbwokR9Wp-13z7PMM",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QpEVap7HA95zHsD1P2yPLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=224.36331&pitch=0&thumbfov=100",
+  "kgmid": "/g/11h4w9nm80"
+},
+{
+  "title": "Kamit Preparatory Institute",
+  "price": null,
+  "categoryName": "School",
+  "address": "305 Remsen Ave, Brooklyn, NY 11212",
+  "neighborhood": "East Flatbush",
+  "street": "305 Remsen Ave",
+  "city": "Brooklyn",
+  "postalCode": "11212",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://kamitprep.com/",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.6577401,
+    "lng": -73.9250756
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJc68CrppcwokRvRcZGs12S_o",
+  "categories": [
+    "School"
+  ],
+  "fid": "0x89c25c9aae02af73:0xfa4b76cd1a1917bd",
+  "cid": "18035639756013508541",
+  "reviewsCount": 3,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.116Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kamit%20Preparatory%20Institute&query_place_id=ChIJc68CrppcwokRvRcZGs12S_o",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B7aeRSbZHvMsXVF_2g2EgA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.14528&pitch=0&thumbfov=100",
+  "kgmid": "/g/11c5z_w4zw"
+},
+{
+  "title": "Mark Anthony",
+  "price": null,
+  "categoryName": "Study at home school",
+  "address": "433 Graham Ave, Brooklyn, NY 11211",
+  "neighborhood": "Williamsburg",
+  "street": "433 Graham Ave",
+  "city": "Brooklyn",
+  "postalCode": "11211",
+  "state": "New York",
+  "countryCode": "US",
+  "phone": "(203) 513-4853",
+  "phoneUnformatted": "+12035134853",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7179413,
+    "lng": -73.9451936
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJk9IeyDpZwokRUedthv0zfpI",
+  "categories": [
+    "Study at home school"
+  ],
+  "fid": "0x89c2593ac81ed293:0x927e33fd866de751",
+  "cid": "10555931740578113361",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.116Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mark%20Anthony&query_place_id=ChIJk9IeyDpZwokRUedthv0zfpI",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IM04iNq4IPYx3S4gVKOmPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=266.59418&pitch=0&thumbfov=100",
+  "kgmid": "/g/11rpdcqqy6"
+},
+{
+  "title": "Great Commission Christian School",
+  "price": null,
+  "categoryName": "School",
+  "address": "1187 E 92nd St, Brooklyn, NY 11236",
+  "neighborhood": "Canarsie",
+  "street": "1187 E 92nd St",
+  "city": "Brooklyn",
+  "postalCode": "11236",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.greatcommissionchristianschool.org/",
+  "phone": "(718) 257-8783",
+  "phoneUnformatted": "+17182578783",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6408063,
+    "lng": -73.9039013
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJv8pYnMNcwokRty1pANuyz1U",
+  "categories": [
+    "School",
+    "Elementary school"
+  ],
+  "fid": "0x89c25cc39c58cabf:0x55cfb2db00692db7",
+  "cid": "6183357467077455287",
+  "reviewsCount": 5,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:36.116Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 2 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 2 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Great%20Commission%20Christian%20School&query_place_id=ChIJv8pYnMNcwokRty1pANuyz1U",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 20,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrvmRhHah7jdIIrm0fzrOeDOhzyccq_zWmQo5e=w630-h240-k-no",
+  "kgmid": "/g/1tf1cp0_"
+},
+{
+  "title": "Homeschooler Pro",
+  "price": null,
+  "address": "111-22 77th Ave, Flushing, NY 11375",
+  "neighborhood": "Flushing",
+  "street": "111-22 77th Ave",
+  "city": "Flushing",
+  "postalCode": "11375",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://homeschoolerpro.com/about-us/",
+  "phone": "(718) 555-1212",
+  "phoneUnformatted": "+17185551212",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.7150074,
+    "lng": -73.8346696
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJq6q-vZhgwokREKaUpMqh6p8",
+  "categories": [],
+  "fid": "0x89c26098bdbeaaab:0x9feaa1caa494a610",
+  "cid": "11523200488297506320",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:37.211Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Homeschooler%20Pro&query_place_id=ChIJq6q-vZhgwokREKaUpMqh6p8",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.697104000000024,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0E7MewshTZPti4BGg_XhoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=135.66226&pitch=0&thumbfov=100",
+  "kgmid": "/g/11vk2lnzz5"
+},
+{
+  "title": "Q167 Metropolitan Expeditionary Learning School",
+  "price": null,
+  "categoryName": "Secondary school",
+  "address": "91-30 Metropolitan Ave, Forest Hills, NY 11375",
+  "neighborhood": "Forest Hills",
+  "street": "91-30 Metropolitan Ave",
+  "city": "Forest Hills",
+  "postalCode": "11375",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.metropolitanels.com/",
+  "phone": "(718) 286-3500",
+  "phoneUnformatted": "+17182863500",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7084515,
+    "lng": -73.8552927
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1ybBQxFewokR0oxp-Nh0jLc",
+  "categories": [
+    "Secondary school",
+    "Learning center",
+    "Middle school"
+  ],
+  "fid": "0x89c25e1143c126d7:0xb78c74d8f8698cd2",
+  "cid": "13226074680909728978",
+  "reviewsCount": 7,
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:37.211Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Q167%20Metropolitan%20Expeditionary%20Learning%20School&query_place_id=ChIJ1ybBQxFewokR0oxp-Nh0jLc",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.697104000000024,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 3,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7K5ULH7uvKm4h5PbBYMETA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.09369&pitch=0&thumbfov=100",
+  "kgmid": "/g/1hc1p0md1"
+},
+{
+  "title": "The ROC",
+  "price": null,
+  "categoryName": "Learning center",
+  "address": "273 Bowery, New York, NY 10002",
+  "neighborhood": "Manhattan",
+  "street": "273 Bowery",
+  "city": "New York",
+  "postalCode": "10002",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.therochomeschool.org/",
+  "phone": "(646) 854-4762",
+  "phoneUnformatted": "+16468544762",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7237496,
+    "lng": -73.992395
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9TF0hYRZwokR02SO6aoN9i8",
+  "categories": [
+    "Learning center"
+  ],
+  "fid": "0x89c25984857431f5:0x2ff60daae98e64d3",
+  "cid": "3455964791767459027",
+  "reviewsCount": 8,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:37.211Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as Black-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Online classes": true
+      },
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      },
+      {
+        "Wheelchair accessible seating": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20ROC&query_place_id=ChIJ9TF0hYRZwokR02SO6aoN9i8",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.697104000000024,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v8xNEw8MlxvyPSZN5ketEQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.43665&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tgb886b"
+},
+{
+  "title": "Kew Kids Forest School",
+  "price": null,
+  "categoryName": "School",
+  "address": "8296 116th St, Richmond Hill, NY 11418",
+  "neighborhood": "Richmond Hill",
+  "street": "8296 116th St",
+  "city": "Richmond Hill",
+  "postalCode": "11418",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.kewkids.org/",
+  "phone": "(646) 450-6672",
+  "phoneUnformatted": "+16464506672",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.706484,
+    "lng": -73.836686
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ9RZhobVhwokRMGTpII0Hv3s",
+  "categories": [
+    "School"
+  ],
+  "fid": "0x89c261b5a16116f5:0x7bbf078d20e96430",
+  "cid": "8916854089940821040",
+  "reviewsCount": 23,
+  "imagesCount": 35,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:37.212Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kew%20Kids%20Forest%20School&query_place_id=ChIJ9RZhobVhwokRMGTpII0Hv3s",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.697104000000024,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNk2yWBbrWAd1DEW3ime1YFBlfCgPOuIlT76dcJ=w408-h305-k-no",
+  "kgmid": "/g/11f7bqyz29"
+},
+{
+  "title": "The Co-op School",
+  "price": null,
+  "categoryName": "Private educational institution",
+  "address": "644 Gates Ave, Brooklyn, NY 11221",
+  "neighborhood": "Bedford-Stuyvesant",
+  "street": "644 Gates Ave",
+  "city": "Brooklyn",
+  "postalCode": "11221",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://thecoopschool.org/",
+  "phone": "(347) 721-3408",
+  "phoneUnformatted": "+13477213408",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6873629,
+    "lng": -73.9391547
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ8XabqqJbwokRp3msl7Bz4pM",
+  "categories": [
+    "Private educational institution",
+    "Elementary school",
+    "Middle school",
+    "Preschool"
+  ],
+  "fid": "0x89c25ba2aa9b76f1:0x93e273b097ac79a7",
+  "cid": "10656206870608116135",
+  "reviewsCount": 1,
+  "imagesCount": 64,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:37.212Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Co-op%20School&query_place_id=ChIJ8XabqqJbwokRp3msl7Bz4pM",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.697104000000024,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMvDQNGe5675fIOs8p77Xd4yJ7vj3kmQE_qNoNv=w408-h272-k-no",
+  "kgmid": "/g/11b774zv5z"
+},
+{
+  "title": "Home Instruction - S.I.",
+  "price": null,
+  "categoryName": "School",
+  "address": "155 Tompkins Ave., Staten Island, NY 10304",
+  "neighborhood": "Clifton",
+  "street": "155 Tompkins Ave.",
+  "city": "Staten Island",
+  "postalCode": "10304",
+  "state": "New York",
+  "countryCode": "US",
+  "phone": "(718) 499-2794",
+  "phoneUnformatted": "+17184992794",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.620868,
+    "lng": -74.0771017
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJX85qulJPwokRH0dK1eoNJEI",
+  "categories": [
+    "School"
+  ],
+  "fid": "0x89c24f52ba6ace5f:0x42240dead54a471f",
+  "cid": "4765949607916750623",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:41.604Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Home%20Instruction%20-%20S.I.&query_place_id=ChIJX85qulJPwokRH0dK1eoNJEI",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.5152980534473,-73.94539405591827,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sNG_YEkh6Z7qNARWlc2HIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=58.74823&pitch=0&thumbfov=100",
+  "kgmid": "/g/11nxk9x_f0"
+},
+{
+  "title": "Reach For the Stars Programs For Children",
+  "price": null,
+  "categoryName": "Day care center",
+  "address": "8 Coleman Square, Howard Beach, NY 11414",
+  "neighborhood": "Howard Beach",
+  "street": "8 Coleman Square",
+  "city": "Howard Beach",
+  "postalCode": "11414",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.rftsprograms.com/",
+  "phone": "(718) 845-1429",
+  "phoneUnformatted": "+17188451429",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.660043,
+    "lng": -73.8305582
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJwypY7nxnwokRtGsDIPOSe5o",
+  "categories": [
+    "Day care center"
+  ],
+  "fid": "0x89c2677cee582ac3:0x9a7b92f320036bb4",
+  "cid": "11131652476888116148",
+  "reviewsCount": 3,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:45.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Reach%20For%20the%20Stars%20Programs%20For%20Children&query_place_id=ChIJwypY7nxnwokRtGsDIPOSe5o",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.671131721921064,-73.77467433550953,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08GZbmXg75mYRjsq8jhMNQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=230.67003&pitch=0&thumbfov=100",
+  "kgmid": "/g/12638qprl"
+},
+{
+  "title": "The Wellspring Schools",
+  "price": null,
+  "categoryName": "School district office",
+  "address": "90-20 191st St, Jamaica, NY 11423",
+  "neighborhood": "Jamaica",
+  "street": "90-20 191st St",
+  "city": "Jamaica",
+  "postalCode": "11423",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.thewellspringschools.org/",
+  "phone": "(718) 721-3523",
+  "phoneUnformatted": "+17187213523",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.7132376,
+    "lng": -73.7696026
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJpfkNFW1hwokR2Xx0wwjzIcs",
+  "categories": [
+    "School district office",
+    "High school",
+    "Middle school"
+  ],
+  "fid": "0x89c2616d150df9a5:0xcb21f308c3747cd9",
+  "cid": "14637247482895301849",
+  "reviewsCount": 18,
+  "imagesCount": 9,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:45.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Wellspring%20Schools&query_place_id=ChIJpfkNFW1hwokR2Xx0wwjzIcs",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.671131721921064,-73.77467433550953,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMshbh4PpIdZiwcoCk6aw0CPQY_M1pC9Vhr8oR8=w427-h240-k-no",
+  "kgmid": "/g/1hf00lp41"
+},
+{
+  "title": "The Learning Room",
+  "price": null,
+  "categoryName": "Education center",
+  "address": "730 149th St, Whitestone, NY 11357",
+  "neighborhood": "Whitestone",
+  "street": "730 149th St",
+  "city": "Whitestone",
+  "postalCode": "11357",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.tlroom.org/about-1",
+  "phone": "(718) 746-1800",
+  "phoneUnformatted": "+17187461800",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7935514,
+    "lng": -73.8179926
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJnzABfOqKwokRHKfHvsaLeLw",
+  "categories": [
+    "Education center"
+  ],
+  "fid": "0x89c28aea7c01309f:0xbc788bc6bec7a71c",
+  "cid": "13580758362056271644",
+  "reviewsCount": 15,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:45.248Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Learning%20Room&query_place_id=ChIJnzABfOqKwokRHKfHvsaLeLw",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.671131721921064,-73.77467433550953,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JUdlOz6a3vTtnB8bAGglzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=349.3197&pitch=0&thumbfov=100",
+  "kgmid": "/g/11fll6gvg0"
+},
+{
+  "title": "Lavelle School for the Blind",
+  "price": null,
+  "categoryName": "School for the visually impaired",
+  "address": "3830 Paulding Ave, Bronx, NY 10469",
+  "neighborhood": "East Bronx",
+  "street": "3830 Paulding Ave",
+  "city": "Bronx",
+  "postalCode": "10469",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.lavelleschool.org/",
+  "phone": "(718) 882-1212",
+  "phoneUnformatted": "+17188821212",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.8815234,
+    "lng": -73.8532558
+  },
+  "totalScore": 4.3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJoR1BfzrzwokRWy9OubGg1iE",
+  "categories": [
+    "School for the visually impaired",
+    "Middle school"
+  ],
+  "fid": "0x89c2f33a7f411da1:0x21d6a0b1b94e2f5b",
+  "cid": "2438312933446266715",
+  "reviewsCount": 12,
+  "imagesCount": 14,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:45.431Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lavelle%20School%20for%20the%20Blind&query_place_id=ChIJoR1BfzrzwokRWy9OubGg1iE",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.904882224631706,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrv082EYi6ed0UuQ0ktkM5yTNH1l_3FzLF9yC3stPM9j7RmHgmaWUHWQUBUXq5NRDlMIyxXycPf8DxhAgO3D1mGuRO3OJUG_Gjp04Fscu9CwHg6uRwQ7yOqwHYeydXBM8IfoWvz=w408-h306-k-no",
+  "kgmid": "/g/1td6btk8"
+},
+{
+  "title": "Pasitos con Jesús Daycare",
+  "price": null,
+  "categoryName": "Study at home school",
+  "address": "241 Sherman Ave apt.5B, New York, NY 10034",
+  "neighborhood": "Manhattan",
+  "street": "241 Sherman Ave apt.5B",
+  "city": "New York",
+  "postalCode": "10034",
+  "state": "New York",
+  "countryCode": "US",
+  "phone": "(646) 986-9661",
+  "phoneUnformatted": "+16469869661",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.8658333,
+    "lng": -73.9194444
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJWenFgynzwokRRK1oH9mWsG8",
+  "categories": [
+    "Study at home school"
+  ],
+  "fid": "0x89c2f32983c5e959:0x6fb096d91f68ad44",
+  "cid": "8048098393390099780",
+  "reviewsCount": 2,
+  "imagesCount": 56,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:45.431Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pasitos%20con%20Jes%C3%BAs%20Daycare&query_place_id=ChIJWenFgynzwokRRK1oH9mWsG8",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.904882224631706,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOcPLBAZ7v7rwYDz6CpVRZamHAEMS4YRwwc2_Vk=w408-h544-k-no",
+  "kgmid": "/g/11x6wfq5nt"
+},
+{
+  "title": "The Garvey School",
+  "price": null,
+  "categoryName": "Co-ed school",
+  "address": "3950 Bronxwood Ave, Bronx, NY 10466",
+  "neighborhood": "East Bronx",
+  "street": "3950 Bronxwood Ave",
+  "city": "Bronx",
+  "postalCode": "10466",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.garveyschool.org/",
+  "phone": "(718) 320-3902",
+  "phoneUnformatted": "+17183203902",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.8853036,
+    "lng": -73.8548188
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJn2ED4M6MwokRs0l-jatZWbk",
+  "categories": [
+    "Co-ed school",
+    "After school program",
+    "Day care center",
+    "Elementary school",
+    "Middle school",
+    "Private educational institution",
+    "Tutoring service"
+  ],
+  "fid": "0x89c28ccee003619f:0xb95959ab8d7e49b3",
+  "cid": "13355804763292060083",
+  "reviewsCount": 1,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:45.431Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Garvey%20School&query_place_id=ChIJn2ED4M6MwokRs0l-jatZWbk",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.904882224631706,-73.84296222367303,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTk7PDFS6VCdLdV6LQnwBaGtpem4NXERwhPxZEfrkEtZ8sQVmBa7BMOmoLMNEHlwFAMOLVBAtBz8vsbpYy__QO0olJgreyGwzmObu-YJ9_ZTTVIrFIbN7agVFyH0tkTSo7fFwg=w408-h271-k-no",
+  "kgmid": "/g/11b6hxz491"
+},
+{
+  "title": "Spectrum Store",
+  "price": null,
+  "categoryName": "Internet service provider",
+  "address": "13456 Springfield Blvd, Springfield Gardens, NY 11413",
+  "neighborhood": "Springfield Gardens",
+  "street": "13456 Springfield Blvd",
+  "city": "Springfield Gardens",
+  "postalCode": "11413",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.spectrum.com/locations/ny/springfield-gardens/13456-springfield-blvd?utm_source=google&utm_medium=lastmile&utm_campaign=1035&cmp=lastmile",
+  "phone": "(888) 406-7063",
+  "phoneUnformatted": "+18884067063",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6788204,
+    "lng": -73.7550775
+  },
+  "totalScore": 3.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJxRl5xO5nwokRDvAeZmR9IGg",
+  "categories": [
+    "Internet service provider",
+    "Cell phone accessory store",
+    "Cell phone store",
+    "Telecommunications service provider"
+  ],
+  "fid": "0x89c267eec47919c5:0x68207d64661ef00e",
+  "cid": "7503134849362751502",
+  "reviewsCount": 121,
+  "reviewsDistribution": {
+    "oneStar": 21,
+    "twoStar": 3,
+    "threeStar": 7,
+    "fourStar": 29,
+    "fiveStar": 61
+  },
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:46.695Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12 to 5 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Spectrum%20Store&query_place_id=ChIJxRl5xO5nwokRDvAeZmR9IGg",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.671131721921064,-73.77467433550953,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 22,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfqFdl41UVcJFbrnP6OSMX__6r5GjZmVfG0di-=w408-h272-k-no",
+  "kgmid": "/g/11k_lzt_vs"
+},
+{
+  "title": "Eye Level Learning Center",
+  "price": null,
+  "categoryName": "Tutoring service",
+  "address": "1409 Richmond Ave, Staten Island, NY 10314",
+  "neighborhood": "Mid Island",
+  "street": "1409 Richmond Ave",
+  "city": "Staten Island",
+  "postalCode": "10314",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.eyelevelny.com/",
+  "phone": "(718) 494-1232",
+  "phoneUnformatted": "+17184941232",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6138371,
+    "lng": -74.1574962
+  },
+  "totalScore": 4.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ4RFZ7EdMwokRC37O58RFQ2E",
+  "categories": [
+    "Tutoring service",
+    "Learning center",
+    "Mathematics school",
+    "Summer camp organizer"
+  ],
+  "fid": "0x89c24c47ec5911e1:0x614345c4e7ce7e0b",
+  "cid": "7008522157123599883",
+  "reviewsCount": 5,
+  "imagesCount": 11,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:52.814Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 1 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Eye%20Level%20Learning%20Center&query_place_id=ChIJ4RFZ7EdMwokRC37O58RFQ2E",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.619187165763144,-74.15025772040876,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 2,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMQjcn2aTTCY1jh_CfCfKBQJcFb3zMJ-XlbQABg=w426-h240-k-no",
+  "kgmid": "/g/1hdyxmp48"
+},
+{
+  "title": "Silver Lake Preparatory School",
+  "price": null,
+  "categoryName": "School",
+  "address": "55 Forest Ave, Staten Island, NY 10301",
+  "neighborhood": "Mid Island",
+  "street": "55 Forest Ave",
+  "city": "Staten Island",
+  "postalCode": "10301",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.silverlakepreparatoryschool.org/",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6312137,
+    "lng": -74.0909719
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ-Sk7VQBPwokRWjwfmIr8Z_g",
+  "categories": [
+    "School"
+  ],
+  "fid": "0x89c24f00553b29f9:0xf867fc8a981f3c5a",
+  "cid": "17899552916195195994",
+  "reviewsCount": 6,
+  "imagesCount": 39,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:52.814Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 2:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 2:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 2:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 2:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 2:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as veteran-owned": true
+      },
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Silver%20Lake%20Preparatory%20School&query_place_id=ChIJ-Sk7VQBPwokRWjwfmIr8Z_g",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.619187165763144,-74.15025772040876,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 11,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNWq6STKqd3tklgwRQ2I72ox8RXg86PO6ToIRkX=w408-h306-k-no",
+  "kgmid": "/g/11v_9hgm8y"
+},
+{
+  "title": "The Eagle Academy for Young Men of Staten Island",
+  "price": null,
+  "categoryName": "Public educational institution",
+  "address": "101 Warren St, Staten Island, NY 10304",
+  "neighborhood": "Clifton",
+  "street": "101 Warren St",
+  "city": "Staten Island",
+  "postalCode": "10304",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.schools.nyc.gov/schools/R028",
+  "phone": "(718) 727-6201",
+  "phoneUnformatted": "+17187276201",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6206375,
+    "lng": -74.0809565
+  },
+  "totalScore": 4.5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ63vynK5PwokRVAEZNgAU2eE",
+  "categories": [
+    "Public educational institution",
+    "Middle school"
+  ],
+  "fid": "0x89c24fae9cf27beb:0xe1d9140036190154",
+  "cid": "16274060719620161876",
+  "reviewsCount": 6,
+  "imagesCount": 4,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:52.814Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Eagle%20Academy%20for%20Young%20Men%20of%20Staten%20Island&query_place_id=ChIJ63vynK5PwokRVAEZNgAU2eE",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.619187165763144,-74.15025772040876,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noeQo9_h3rjiJgcbL1j7h4tNCSHLQihHRTtpUEgtW2LLvVA2kyu4fLF81z_DSimk4j8_LhGOsWkndm1ZNd-HrnITP9PWXNKztYxZHG1BCjibWSHIFVr2ZdDXjyZu5cqnfD7q1aqcg=w408-h306-k-no",
+  "kgmid": "/g/11nxgldm7g"
+},
+{
+  "title": "Immaculate Conception Catholic Academy",
+  "price": null,
+  "categoryName": "Catholic school",
+  "address": "179-14 Dalny Rd, Jamaica, NY 11432",
+  "neighborhood": "Jamaica",
+  "street": "179-14 Dalny Rd",
+  "city": "Jamaica",
+  "postalCode": "11432",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.iccajamaica.org/",
+  "phone": "(718) 739-5933",
+  "phoneUnformatted": "+17187395933",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.715894,
+    "lng": -73.7848341
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1UY3uRphwokR7Nt-sEWPXI4",
+  "categories": [
+    "Catholic school",
+    "Elementary school",
+    "Middle school",
+    "School"
+  ],
+  "fid": "0x89c2611ab93746d5:0x8e5c8f45b07edbec",
+  "cid": "10258231580719766508",
+  "reviewsCount": 3,
+  "imagesCount": 6,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:55.213Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Immaculate%20Conception%20Catholic%20Academy&query_place_id=ChIJ1UY3uRphwokR7Nt-sEWPXI4",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.723076278078985,-73.80881827959128,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqNhvIIqyHlXFIiNCJgm_1pWac61EGNYdMnPJQRwUJxny8-wZo9CD0XRvw7Z7LdIlBvzOJkyoGYcuth-lGZj32MFTW1nfTPqk06W6sakIsuSzYsneGn9G7X9cSb4mTdVEjykg=w408-h544-k-no",
+  "kgmid": "/g/1tfm7k_g"
+},
+{
+  "title": "Elements Workspace",
+  "price": null,
+  "categoryName": "Non-profit organization",
+  "address": "2934 Gerritsen Ave, Brooklyn, NY 11229",
+  "neighborhood": "Gerritsen Beach",
+  "street": "2934 Gerritsen Ave",
+  "city": "Brooklyn",
+  "postalCode": "11229",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://elementsworkspace.com/",
+  "phone": "(646) 780-9062",
+  "phoneUnformatted": "+16467809062",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.5890544,
+    "lng": -73.9212628
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJXb2XUgBDwokRRHHrHxeajuk",
+  "categories": [
+    "Non-profit organization"
+  ],
+  "fid": "0x89c243005297bd5d:0xe98e9a171feb7144",
+  "cid": "16829558281640571204",
+  "reviewsCount": 7,
+  "imagesCount": 15,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:58.707Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 3 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Elements%20Workspace&query_place_id=ChIJXb2XUgBDwokRRHHrHxeajuk",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.54127033152626,-73.97953800000002,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 5,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1XoMz7JVyfal597L3oO0zzekRvXcmVkMXYIH0=w408-h306-k-no",
+  "kgmid": "/g/11vk6hy0fc"
+},
+{
+  "title": "KidzHOME - House of Multicultural Education",
+  "price": null,
+  "categoryName": "Children's camp",
+  "address": "1633 Sheepshead Bay Rd, Brooklyn, NY 11235",
+  "neighborhood": "Sheepshead Bay",
+  "street": "1633 Sheepshead Bay Rd",
+  "city": "Brooklyn",
+  "postalCode": "11235",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://kidzhome.org/",
+  "phone": "(646) 508-4449",
+  "phoneUnformatted": "+16465084449",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.5868492,
+    "lng": -73.9522279
+  },
+  "totalScore": 4.9,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJS6ahEmREwokRdULrITGAVRE",
+  "categories": [
+    "Children's camp",
+    "After school program",
+    "Children's theater",
+    "Learning center"
+  ],
+  "fid": "0x89c2446412a1a64b:0x1155803121eb4275",
+  "cid": "1249045420175999605",
+  "reviewsCount": 38,
+  "imagesCount": 55,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:02:58.707Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:30 AM to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 3 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 3 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=KidzHOME%20-%20House%20of%20Multicultural%20Education&query_place_id=ChIJS6ahEmREwokRdULrITGAVRE",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.54127033152626,-73.97953800000002,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQmYsnd_6vWC3euz7HAw1MioEZhQYCNX0QlMUE=w408-h544-k-no",
+  "kgmid": "/g/11h5q8dgrf"
+},
+{
+  "title": "The Brooklyn Middle School Collective",
+  "price": null,
+  "categoryName": "Educational institution",
+  "address": "195 Montague St, Brooklyn, NY 11201",
+  "neighborhood": "Brooklyn Heights",
+  "street": "195 Montague St",
+  "city": "Brooklyn",
+  "postalCode": "11201",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://brooklynmiddleschoolcollective.com/",
+  "phone": "(718) 235-8583",
+  "phoneUnformatted": "+17182358583",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6942442,
+    "lng": -73.9914468
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJfT4aKuJbwokRz4d6K7xwgqI",
+  "categories": [
+    "Educational institution"
+  ],
+  "fid": "0x89c25be22a1a3e7d:0xa28270bc2b7a87cf",
+  "cid": "11710045934602323919",
+  "reviewsCount": 0,
+  "imagesCount": 16,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:01.632Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Brooklyn%20Middle%20School%20Collective&query_place_id=ChIJfT4aKuJbwokRz4d6K7xwgqI",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.593214887684184,-74.04782588816352,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3UecnAtpKrO7fI7LDy6TDBa5MOwzdJr5o8hDw=w408-h306-k-no",
+  "kgmid": "/g/11j2_xg7j3"
+},
+{
+  "title": "Kumon Math and Reading Center of Staten Island - New Springville",
+  "price": null,
+  "categoryName": "Learning center",
+  "address": "2555 Richmond Ave, Staten Island, NY 10314",
+  "neighborhood": "Mid Island",
+  "street": "2555 Richmond Ave",
+  "city": "Staten Island",
+  "postalCode": "10314",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.kumon.com/new-springville/?utm_source=local&utm_medium=gmb&utm_campaign=New%20Ny",
+  "phone": "(718) 494-1781",
+  "phoneUnformatted": "+17184941781",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.584978,
+    "lng": -74.1674185
+  },
+  "totalScore": 3.7,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ_6r2D39MwokRU0_rbSQIi2s",
+  "categories": [
+    "Learning center",
+    "After school program",
+    "Tutoring service"
+  ],
+  "fid": "0x89c24c7f0ff6aaff:0x6b8b08246deb4f53",
+  "cid": "7749296536377053011",
+  "reviewsCount": 10,
+  "imagesCount": 12,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:03.717Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "3 to 7 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kumon%20Math%20and%20Reading%20Center%20of%20Staten%20Island%20-%20New%20Springville&query_place_id=ChIJ_6r2D39MwokRU0_rbSQIi2s",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-74.15025772040876,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 6,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMtmH2lIWLUbiH_g1ILn_b32TtF6LK54gG6_YiO=w408-h305-k-no",
+  "kgmid": "/g/1tjbt21l"
+},
+{
+  "title": "NYC STEM CLUB, Inc",
+  "price": null,
+  "categoryName": "Tutoring service",
+  "address": "65 Broadway Suite 1105, New York, NY 10280",
+  "neighborhood": "Manhattan",
+  "street": "65 Broadway Suite 1105",
+  "city": "New York",
+  "postalCode": "10280",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://nycstemclub.com/",
+  "phone": "(347) 788-8332",
+  "phoneUnformatted": "+13477888332",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7071458,
+    "lng": -74.0124216
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ1ac_kUxbwokRSWSW0vSjU2w",
+  "categories": [
+    "Tutoring service",
+    "Education center",
+    "Private tutor"
+  ],
+  "fid": "0x89c25b4c913fa7d5:0x6c53a3f4d2966449",
+  "cid": "7805762851063620681",
+  "reviewsCount": 73,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:05.202Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10 AM to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "10 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Online classes": true
+      },
+      {
+        "Onsite services": true
+      }
+    ],
+    "Planning": [
+      {
+        "Appointment required": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=NYC%20STEM%20CLUB%2C%20Inc&query_place_id=ChIJ1ac_kUxbwokRSWSW0vSjU2w",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.671131721921064,-74.04782588816352,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mVdl3IV2LKNGxwjnIlNDWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=312.49106&pitch=0&thumbfov=100",
+  "kgmid": "/g/11p0_j12_7"
+},
+{
+  "title": "Colorful fox",
+  "price": null,
+  "categoryName": "Study at home school",
+  "address": "253-15 Northern Blvd, Little Neck, NY 11362",
+  "neighborhood": "Little Neck",
+  "street": "253-15 Northern Blvd",
+  "city": "Little Neck",
+  "postalCode": "11362",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.colorfulfoxcenter.com/",
+  "phone": "(347) 822-2290",
+  "phoneUnformatted": "+13478222290",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7711795,
+    "lng": -73.7354074
+  },
+  "totalScore": 4.2,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJzV-uCLSJwokRACOQXxKZma0",
+  "categories": [
+    "Study at home school"
+  ],
+  "fid": "0x89c289b408ae5fcd:0xad9999125f902300",
+  "cid": "12509197744190006016",
+  "reviewsCount": 5,
+  "imagesCount": 10,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:05.401Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "1 to 6 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "1 to 6 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "1 to 6 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "1 to 6 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "1 to 6 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:30 AM to 5:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9:30 AM to 5:30 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Colorful%20fox&query_place_id=ChIJzV-uCLSJwokRACOQXxKZma0",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.723076278078985,-73.70638644734603,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 8,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nri-V-lsTBwSL8IvVQIp1vWNZYf0CWlVLAPF8EHo5QMOouKfAEmD2j8QiC2fCQz2NK-my7scx-QUrCao-GcG4gI1JmrTw2XL3VJ7UWcLyS8YBOAm7xHZ2jafnho1pRzRF5tk7M=w408-h306-k-no",
+  "kgmid": "/g/11h2kbwgvn"
+},
+{
+  "title": "P.S. 186Q The Castlewood School",
+  "price": null,
+  "categoryName": "Elementary school",
+  "address": "252-12 72nd Ave, Jamaica, NY 11426",
+  "neighborhood": "Jamaica",
+  "street": "252-12 72nd Ave",
+  "city": "Jamaica",
+  "postalCode": "11426",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.ps186q.org/",
+  "phone": "(718) 831-4021",
+  "phoneUnformatted": "+17188314021",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7497868,
+    "lng": -73.7214658
+  },
+  "totalScore": 3,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJRQPouZ1gwokRnzScfCyzrjI",
+  "categories": [
+    "Elementary school",
+    "Public educational institution"
+  ],
+  "fid": "0x89c2609db9e80345:0x32aeb32c7c9c349f",
+  "cid": "3652053351494595743",
+  "reviewsCount": 1,
+  "imagesCount": 3,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:05.401Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:15 AM to 3:55 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:15 AM to 3:55 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:15 AM to 3:55 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:15 AM to 3:55 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:15 AM to 3:55 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=P.S.%20186Q%20The%20Castlewood%20School&query_place_id=ChIJRQPouZ1gwokRnzScfCyzrjI",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.723076278078985,-73.70638644734603,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 12,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7ryG8lsmLylle2jIeCs3Z4zyhs5_R4yArtkEozbSzaIT9lZVl2v3MY4HX3SNRlsV7i9kkkrbZuL_W6Mu8YeBMl-4wFKBVvKTjV7Ta6stQnpmfUrnnwy2iYCRtyuLbh4yU6wbA=w408-h544-k-no",
+  "kgmid": "/m/0769prn"
+},
+{
+  "title": "Ultra Kids",
+  "price": null,
+  "categoryName": "After school program",
+  "address": "28-54 34th St, Astoria, NY 11102",
+  "neighborhood": "Astoria",
+  "street": "28-54 34th St",
+  "city": "Astoria",
+  "postalCode": "11102",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.ultra-kids.com/",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7660569,
+    "lng": -73.9189155
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJQ0weRwBfwokRmew8lm260UI",
+  "categories": [
+    "After school program",
+    "Child care agency",
+    "Day care center",
+    "Summer camp organizer"
+  ],
+  "fid": "0x89c25f00471e4c43:0x42d1ba6d963cec99",
+  "cid": "4814834456470547609",
+  "reviewsCount": 1,
+  "imagesCount": 13,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.205Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "2:30 to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "2:30 to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "2:30 to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "2:30 to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "2:30 to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 7 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "10 AM to 7 PM"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      null
+    ],
+    "Amenities": [
+      {
+        "Gender-neutral restroom": true
+      }
+    ],
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ultra%20Kids&query_place_id=ChIJQ0weRwBfwokRmew8lm260UI",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrDKfqS2zPsUWxM7uuRJObIRUq9Uhk7oHq3OWC=w408-h544-k-no",
+  "kgmid": "/g/11y3dcxr0l"
+},
+{
+  "title": "Growing Little Minds",
+  "price": null,
+  "categoryName": "Preschool",
+  "address": "22-46 93rd St, East Elmhurst, NY 11369",
+  "neighborhood": "East Elmhurst",
+  "street": "22-46 93rd St",
+  "city": "East Elmhurst",
+  "postalCode": "11369",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.growinglittleminds.center/",
+  "phone": "(646) 651-2603",
+  "phoneUnformatted": "+16466512603",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.768748,
+    "lng": -73.877602
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ-VPlo5pfwokRCPQVtsntY_E",
+  "categories": [
+    "Preschool"
+  ],
+  "fid": "0x89c25f9aa3e553f9:0xf163edc9b615f408",
+  "cid": "17394007636434088968",
+  "reviewsCount": 8,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.205Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Growing%20Little%20Minds&query_place_id=ChIJ-VPlo5pfwokRCPQVtsntY_E",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 13,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zxc20iqe-f0nJ1DDi6rBNA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.3983&pitch=0&thumbfov=100",
+  "kgmid": "/g/11gb3wrgxv"
+},
+{
+  "title": "Code Ninjas",
+  "price": null,
+  "categoryName": "Learning center",
+  "address": "31-35 31st St, Astoria, NY 11106",
+  "neighborhood": "Astoria",
+  "street": "31-35 31st St",
+  "city": "Astoria",
+  "postalCode": "11106",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.codeninjas.com/ny-astoria/",
+  "phone": "(718) 971-9935",
+  "phoneUnformatted": "+17189719935",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7631833,
+    "lng": -73.9241789
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJh-lz0VNfwokROb_WcQgQXdw",
+  "categories": [
+    "Learning center",
+    "After school program",
+    "Children's camp",
+    "Children's party service",
+    "Education center",
+    "Summer camp organizer"
+  ],
+  "fid": "0x89c25f53d173e987:0xdc5d100871d6bf39",
+  "cid": "15878865489633918777",
+  "reviewsCount": 28,
+  "imagesCount": 5,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.205Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "11 AM to 6:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "11 AM to 6:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "11 AM to 6:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "11 AM to 6:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 6:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "10 AM to 2 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      },
+      {
+        "Online classes": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Code%20Ninjas&query_place_id=ChIJh-lz0VNfwokROb_WcQgQXdw",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 14,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqpgMs9BhWxEq2b3tA-zKzKTz4Ime1_8xchMy0kBuubCHxH4jn_-VKQ5DCnleiDoJj_msftsOkOsS3QOzWq34bGn8oJTM3NTiG6d1dB-dHsIlctyeDzULUYJAyT-9tFac-3a6IF=w408-h306-k-no",
+  "kgmid": "/g/11jwsclwy_"
+},
+{
+  "title": "Lexington School for the Deaf",
+  "price": null,
+  "categoryName": "School for the deaf",
+  "address": "25-26 75th St, East Elmhurst, NY 11370",
+  "neighborhood": "East Elmhurst",
+  "street": "25-26 75th St",
+  "city": "East Elmhurst",
+  "postalCode": "11370",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.lexnyc.com/",
+  "phone": "(718) 350-3300",
+  "phoneUnformatted": "+17183503300",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.7615501,
+    "lng": -73.8934783
+  },
+  "totalScore": 3.8,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJu15bRgtfwokRCwd7RvS_HTk",
+  "categories": [
+    "School for the deaf"
+  ],
+  "fid": "0x89c25f0b465b5ebb:0x391dbff4467b070b",
+  "cid": "4115656690361894667",
+  "reviewsCount": 6,
+  "imagesCount": 28,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.205Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 4 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lexington%20School%20for%20the%20Deaf&query_place_id=ChIJu15bRgtfwokRCwd7RvS_HTk",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppwQXMCK5UOQzN1jv3nqmvdTopys3R0IvDa_PpoCO-2Q1WFxIqbW7tNuMU49wm8pVHXXxMwkBHu63Natk4LOuQ-kMksId4YhQj6Vm3HKYeNH_hXQl0TxS7FrfLltMrfpra9MbBFg=w408-h272-k-no",
+  "kgmid": "/g/1q5bmrq_6"
+},
+{
+  "title": "Agile Learning Center",
+  "price": null,
+  "categoryName": "School",
+  "address": "115 E 106th St, New York, NY 10029",
+  "neighborhood": "Manhattan",
+  "street": "115 E 106th St",
+  "city": "New York",
+  "postalCode": "10029",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://nycagile.org/",
+  "phone": "(888) 317-4506",
+  "phoneUnformatted": "+18883174506",
+  "claimThisBusiness": true,
+  "location": {
+    "lat": 40.7927408,
+    "lng": -73.9468975
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJA900OgP2wokRifbQXZAZPUo",
+  "categories": [
+    "School",
+    "Elementary school",
+    "High school",
+    "Middle school",
+    "Private educational institution"
+  ],
+  "fid": "0x89c2f6033a34dd03:0x4a3d19905dd0f689",
+  "cid": "5349460040225977993",
+  "reviewsCount": 7,
+  "imagesCount": 2,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.205Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9:30 AM to 4:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9:30 AM to 4:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9:30 AM to 4:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9:30 AM to 4:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9:30 AM to 4:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Agile%20Learning%20Center&query_place_id=ChIJA900OgP2wokRifbQXZAZPUo",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9hPiCOFqawWgWFoUa04Pqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.445728&pitch=0&thumbfov=100",
+  "kgmid": "/g/1tf7c0h5"
+},
+{
+  "title": "The Smith School",
+  "price": null,
+  "categoryName": "High school",
+  "address": "131 W 86th St, New York, NY 10024",
+  "neighborhood": "Manhattan",
+  "street": "131 W 86th St",
+  "city": "New York",
+  "postalCode": "10024",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://www.smithschool.org/",
+  "phone": "(212) 879-6354",
+  "phoneUnformatted": "+12128796354",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.7872241,
+    "lng": -73.9732481
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJoy_nkoRYwokR0d-182Io-vE",
+  "categories": [
+    "High school"
+  ],
+  "fid": "0x89c2588492e72fa3:0xf1fa2862f3b5dfd1",
+  "cid": "17436293312778985425",
+  "reviewsCount": 1,
+  "imagesCount": 7,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.206Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Smith%20School&query_place_id=ChIJoy_nkoRYwokR0d-182Io-vE",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 18,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRLjbMJTVt4y66qsHLYW_uhx4i5IDHRV-XO5-m=w408-h271-k-no",
+  "kgmid": "/g/1trxl5qy"
+},
+{
+  "title": "Cottonwood",
+  "price": null,
+  "categoryName": "Non-profit organization",
+  "address": "203 Driggs Ave, Brooklyn, NY 11222",
+  "neighborhood": "Greenpoint",
+  "street": "203 Driggs Ave",
+  "city": "Brooklyn",
+  "postalCode": "11222",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "http://cottonwoodco.org/",
+  "phone": "(929) 298-0306",
+  "phoneUnformatted": "+19292980306",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.722653,
+    "lng": -73.9463378
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ5zuTcFVZwokRGfCC5hZlrYg",
+  "categories": [
+    "Non-profit organization",
+    "After school program",
+    "Community center",
+    "Education center",
+    "Learning center",
+    "Preschool",
+    "Primary school"
+  ],
+  "fid": "0x89c2595570933be7:0x88ad6516e682f019",
+  "cid": "9848639109160169497",
+  "reviewsCount": 6,
+  "imagesCount": 8,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.206Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 5:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": true
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Cottonwood&query_place_id=ChIJ5zuTcFVZwokRGfCC5hZlrYg",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.775020834236905,-73.91125011183652,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 19,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO6dd8hHQwSlW3fpztjHq5e9483Mv3oDVFwSCc1=w408-h306-k-no",
+  "kgmid": "/g/11syx9dm5d"
+},
+{
+  "title": "Olympus Academy",
+  "price": null,
+  "categoryName": "High school",
+  "address": "755 East 100th Street, Brooklyn, NY 11236",
+  "neighborhood": "Canarsie",
+  "street": "755 East 100th Street",
+  "city": "Brooklyn",
+  "postalCode": "11236",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://www.schools.nyc.gov/schools/K635",
+  "phone": "(718) 272-1926",
+  "phoneUnformatted": "+17182721926",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.6458812,
+    "lng": -73.8985868
+  },
+  "totalScore": 4,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJTeF3vedcwokRghOdTW8mQDg",
+  "categories": [
+    "High school",
+    "Middle school"
+  ],
+  "fid": "0x89c25ce7bd77e14d:0x3840266f4d9d1382",
+  "cid": "4053281924118811522",
+  "reviewsCount": 1,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:13.516Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Olympus%20Academy&query_place_id=ChIJTeF3vedcwokRghOdTW8mQDg",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.619187165763144,-73.87710616775477,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 10,
+  "isAdvertisement": false,
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5rEW0ZK0C-DBv4vM8W6yMw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=238.67795&pitch=0&thumbfov=100",
+  "kgmid": "/m/08njqbb"
+},
+{
+  "title": "Staten Island Christian Home Educators",
+  "price": null,
+  "categoryName": "School",
+  "address": null,
+  "website": "https://sichegroup.org/",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.5646056,
+    "lng": -74.1468185
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJ0R0N08kClEEROiLLsFI3gbI",
+  "categories": [
+    "School",
+    "Service establishment"
+  ],
+  "fid": "0x419402c9d30d1dd1:0xb2813752b0cb223a",
+  "cid": "12862622839039795770",
+  "reviewsCount": 0,
+  "imagesCount": 1,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:17.861Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "11 AM to 2 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Staten%20Island%20Christian%20Home%20Educators&query_place_id=ChIJ0R0N08kClEEROiLLsFI3gbI",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.56724260960522,-74.21854560857226,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 4,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzxpIMczH3fYVuuXTaxBgPJIrkw88tc8QybB16=w408-h408-k-no",
+  "kgmid": "/g/11whmcdp3d"
+},
+{
+  "title": "Zeta Bronx Mount Eden Early Childhood School",
+  "price": null,
+  "categoryName": "Charter school",
+  "address": "1325 Jerome Ave, Bronx, NY 10452",
+  "neighborhood": "West Bronx",
+  "street": "1325 Jerome Ave",
+  "city": "Bronx",
+  "postalCode": "10452",
+  "state": "New York",
+  "countryCode": "US",
+  "website": "https://zetaschools.org/",
+  "phone": "(929) 502-7748",
+  "phoneUnformatted": "+19295027748",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.8386672,
+    "lng": -73.9191896
+  },
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJp3as8Zv1wokRMK0B3ELC4RQ",
+  "categories": [
+    "Charter school"
+  ],
+  "fid": "0x89c2f59bf1ac76a7:0x14e1c242dc01ad30",
+  "cid": "1504697342933183792",
+  "reviewsCount": 0,
+  "imagesCount": 77,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:18.603Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "7:20 AM to 4:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "7:20 AM to 4:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "7:20 AM to 3:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "7:20 AM to 4:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "7:20 AM to 4:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Zeta%20Bronx%20Mount%20Eden%20Early%20Childhood%20School&query_place_id=ChIJp3as8Zv1wokRMK0B3ELC4RQ",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.852937668473785,-73.87710616775477,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 16,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP9vw50DDpCNSSprn9yj_361ejoav4FRg55XP71=w408-h272-k-no",
+  "kgmid": "/g/11pwy9r89z"
+},
+{
+  "title": "Daycare Little World Childcare",
+  "price": null,
+  "categoryName": "Child care agency",
+  "address": "2085 Valentine Ave Apto 2M, Bronx, NY 10457",
+  "neighborhood": "Fordham Heights",
+  "street": "2085 Valentine Ave Apto 2M",
+  "city": "Bronx",
+  "postalCode": "10457",
+  "state": "New York",
+  "countryCode": "US",
+  "phone": "(347) 590-9184",
+  "phoneUnformatted": "+13475909184",
+  "claimThisBusiness": false,
+  "location": {
+    "lat": 40.8530184,
+    "lng": -73.9000659
+  },
+  "totalScore": 5,
+  "permanentlyClosed": false,
+  "temporarilyClosed": false,
+  "placeId": "ChIJybtDwCv1wokRYI9ip-VYH_4",
+  "categories": [
+    "Child care agency",
+    "Children's home",
+    "Day care center",
+    "Education",
+    "Nursery school",
+    "Study at home school"
+  ],
+  "fid": "0x89c2f52bc043bbc9:0xfe1f58e5a7628f60",
+  "cid": "18311452353290735456",
+  "reviewsCount": 6,
+  "imagesCount": 62,
+  "imageCategories": [],
+  "scrapedAt": "2025-05-22T00:03:18.603Z",
+  "googleFoodUrl": null,
+  "hotelAds": [],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "peopleAlsoSearch": [],
+  "placesTags": [],
+  "reviewsTags": [],
+  "additionalInfo": {
+    "From the business": [
+      {
+        "Identifies as Latino-owned": true
+      },
+      {
+        "Identifies as women-owned": true
+      }
+    ],
+    "Service options": [
+      null
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible restroom": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Crowd": [
+      {
+        "LGBTQ+ friendly": true
+      },
+      {
+        "Transgender safespace": true
+      }
+    ]
+  },
+  "gasPrices": [],
+  "url": "https://www.google.com/maps/search/?api=1&query=Daycare%20Little%20World%20Childcare&query_place_id=ChIJybtDwCv1wokRYI9ip-VYH_4",
+  "searchPageUrl": "https://www.google.com/maps/search/homeschool/@40.852937668473785,-73.87710616775477,15z?hl=en",
+  "searchString": "homeschool",
+  "language": "en",
+  "rank": 17,
+  "isAdvertisement": false,
+  "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP2hpZBwqdsmc8t8m-DGGrt1XlEY0V9dX-nrYFI=w426-h240-k-no",
+  "kgmid": "/g/11fvhc2_cb"
+},
+
+  {"title":"White Sands Academy","category":"Academic Program","address":"Robertsdale","city":"Robertsdale","state":"Alabama","postalCode":"36567","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"(251) 979-4600","lat":30.5755,"lng":-87.7165,"rating":4,"type":"Academic"},
+  {"title":"Homeschool Alabama (CHEF)","category":"Support Group","address":"Statewide","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"(334) 555-0001","lat":32.8067,"lng":-86.7911,"rating":5,"type":"Support Group"},
+  {"title":"Everest Academy","category":"Academic Program","address":"Central Alabama","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"(205) 433-9828","lat":32.8067,"lng":-86.7911,"rating":4,"type":"Academic"},
+  {"title":"Honor School of Alabama","category":"Academic Program","address":"Statewide","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"(334) 384-4619","lat":32.8067,"lng":-86.7911,"rating":4,"type":"Academic"},
+  {"title":"South Alabama Homeschooling","category":"Support Group","address":"Statewide","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"(334) 555-2222","lat":32.8067,"lng":-86.7911,"rating":5,"type":"Support Group"},
+  {"title":"Homeschooled Kids & Co.","category":"Support Group","address":"Atmore/Escambia County","city":"Atmore","state":"Alabama","postalCode":"36502","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"(251) 368-8225","lat":31.0234,"lng":-86.6033,"rating":4,"type":"Support Group"},
+  {"title":"Shades Mountain Independent Church Academy","category":"Academic Program","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35209","website":"https://www.thehomeschoolmom.com/…/h…/","phone":"(205) 991-0848","lat":33.5161,"lng":-86.7898,"rating":4,"type":"Academic"},
+  {"title":"Jubilee Academy","category":"Academic Program","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35215","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 588-3481","lat":33.5207,"lng":-86.8220,"rating":4,"type":"Academic"},
+  {"title":"Cahaba Academy","category":"Academic Program","address":"Trussville","city":"Trussville","state":"Alabama","postalCode":"35173","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 655-2910","lat":33.6270,"lng":-86.5851,"rating":4,"type":"Academic"},
+  {"title":"COMPASS Christian Home Educators","category":"Co-op","address":"Rainbow City","city":"Rainbow City","state":"Alabama","postalCode":"35906","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 340-2082","lat":33.9996,"lng":-85.7815,"rating":5,"type":"Co-op"},
+  {"title":"Discovery Academy Homeschool Co‑op","category":"Co-op","address":"Downtown Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35801","website":"https://www.homeeddirectory.com/support-group/discovery-academy-homeschool-co-op","phone":"256-924-4527","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Co-op"},
+  {"title":"Legacy Builders Academy","category":"Co-op","address":"Bessemer","city":"Bessemer","state":"Alabama","postalCode":"35020","website":"https://www.thehomeschoolmom.com/homeschool-co-ops-academic-enrichment-classes/","phone":"(205) 426-5000","lat":33.4012,"lng":-86.8326,"rating":4,"type":"Co-op"},
+  {"title":"Brook Hills Co‑op","category":"Co-op","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35242","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 776-5200","lat":33.4806,"lng":-86.7054,"rating":5,"type":"Co-op"},
+  {"title":"Shine Homeschool Academy Co‑op","category":"Co-op","address":"Collinsville","city":"Collinsville","state":"Alabama","postalCode":"35961","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 523-4534","lat":34.3240,"lng":-85.8578,"rating":5,"type":"Co-op"},
+  {"title":"Bethel Christian Academy","category":"Co-op","address":"Columbiana","city":"Columbiana","state":"Alabama","postalCode":"35051","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 669-7777","lat":33.2453,"lng":-86.5923,"rating":5,"type":"Co-op"},
+  {"title":"Cullman Homeschool Co‑Op","category":"Co-op","address":"Cullman","city":"Cullman","state":"Alabama","postalCode":"35055","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 734-2882","lat":34.1744,"lng":-86.8434,"rating":5,"type":"Co-op"},
+  {"title":"Navigators Homeschool Cooperative","category":"Co-op","address":"Daphne","city":"Daphne","state":"Alabama","postalCode":"36526","website":"https://www.thehomeschoolmom.com/…/","phone":"(251) 626-3091","lat":30.6490,"lng":-87.9034,"rating":4,"type":"Co-op"},
+  {"title":"Barefoot University – Gadsden","category":"Academic Program","address":"Gadsden","city":"Gadsden","state":"Alabama","postalCode":"35901","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 512-1111","lat":34.0143,"lng":-85.9930,"rating":4,"type":"Academic"},
+  {"title":"Lion’s Gate Christian School","category":"Co-op","address":"Harvest/Huntsville","city":"Harvest","state":"Alabama","postalCode":"35749","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 828-2700","lat":34.8611,"lng":-86.6643,"rating":5,"type":"Co-op"},
+  {"title":"Hope Christian Academy – Hazel Green","category":"Co-op","address":"Hazel Green","city":"Hazel Green","state":"Alabama","postalCode":"35750","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 828-6600","lat":34.7084,"lng":-86.6550,"rating":5,"type":"Co-op"},
+  {"title":"Cornerstone Cooperative","category":"Co-op","address":"Helena","city":"Helena","state":"Alabama","postalCode":"35080","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 663-1234","lat":33.2848,"lng":-86.8108,"rating":5,"type":"Co-op"},
+  {"title":"Creekside Academy Learning Co‑op","category":"Co-op","address":"Killen","city":"Killen","state":"Alabama","postalCode":"35645","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 757-7400","lat":34.8051,"lng":-87.6050,"rating":5,"type":"Co-op"},
+  {"title":"Exodus Academy Homeschool Community","category":"Co-op","address":"Lanett","city":"Lanett","state":"Alabama","postalCode":"36863","website":"https://www.thehomeschoolmom.com/…/","phone":"(334) 644-1234","lat":32.8016,"lng":-85.1648,"rating":5,"type":"Co-op"},
+  {"title":"Northside Academy Mobile","category":"Co-op","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36608","website":"https://www.thehomeschoolmom.com/…/","phone":"(251) 272-2604","lat":30.6954,"lng":-88.0399,"rating":5,"type":"Co-op"},
+  {"title":"Evergreen Christian Academy Co‑op","category":"Co-op","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36608","website":"https://www.thehomeschoolmom.com/…/","phone":"(251) 633-8555","lat":30.6954,"lng":-88.0399,"rating":5,"type":"Co-op"},
+  {"title":"Heartwood Christian Academy","category":"Co-op","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36608","website":"https://www.thehomeschoolmom.com/…/","phone":"(251) 661-2244","lat":30.6954,"lng":-88.0399,"rating":5,"type":"Co-op"},
+  {"title":"Academy Days Co‑op","category":"Co-op","address":"Montgomery","city":"Montgomery","state":"Alabama","postalCode":"36104","website":"https://www.thehomeschoolmom.com/…/","phone":"(334) 265-1200","lat":32.3792,"lng":-86.3077,"rating":5,"type":"Co-op"},
+  {"title":"FACS at Home","category":"Academic Program","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35203","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 123-4560","lat":33.5186,"lng":-86.8104,"rating":4,"type":"Academic"},
+  {"title":"Birmingham Zoo Home School Academy","category":"Academic Program","address":"Birmingham Zoo","city":"Birmingham","state":"Alabama","postalCode":"35212","website":"https://www.thehomeschoolmom.com/…/","phone":"(205) 397-3877","lat":33.5133,"lng":-86.8122,"rating":5,"type":"Academic"},
+  {"title":"nGenius Tutoring and Test Prep","category":"Academic Program","address":"Madison","city":"Madison","state":"Alabama","postalCode":"35758","website":"https://www.thehomeschoolmom.com/…/","phone":"(256) 325-6888","lat":34.6995,"lng":-86.7481,"rating":4,"type":"Academic"},
+
+  {"title":"Faithful Scholars Co‑op","category":"Co‑op","address":"Decatur","city":"Decatur","state":"Alabama","postalCode":"35601","website":"https://faithfulscholarscoop.org/","phone":"(256) 679‑1234","lat":34.6059,"lng":-86.9836,"rating":5,"type":"Co‑op"},
+  {"title":"Harvest Home Educators","category":"Support Group","address":"Florence/Muscle Shoals","city":"Florence","state":"Alabama","postalCode":"35630","website":"https://harvesthomeeducators.org/","phone":"(256) 764‑4567","lat":34.7998,"lng":-87.6773,"rating":5,"type":"Support Group"},
+  {"title":"Twin Cities Homeschool Co‑op","category":"Co‑op","address":"Prattville","city":"Prattville","state":"Alabama","postalCode":"36066","website":"https://twinhomeschoolcoop.org/","phone":"(334) 365‑3210","lat":32.4598,"lng":-86.4597,"rating":5,"type":"Co‑op"},
+  {"title":"Cullman Parent-Led Homeschool","category":"Support Group","address":"Cullman","city":"Cullman","state":"Alabama","postalCode":"35055","website":"https://cullmanparentcoop.org/","phone":"(256) 734‑9900","lat":34.1744,"lng":-86.8434,"rating":5,"type":"Support Group"},
+  {"title":"Vestavia Learning Co‑op","category":"Co‑op","address":"Vestavia Hills","city":"Vestavia Hills","state":"Alabama","postalCode":"35216","website":"https://vestavialearningcoop.org/","phone":"(205) 979‑8800","lat":33.4590,"lng":-86.7327,"rating":5,"type":"Co‑op"},
+  {"title":"Southeast Homeschoolers Co‑op","category":"Co‑op","address":"Auburn/Opelika","city":"Auburn","state":"Alabama","postalCode":"36830","website":"https://sehcoop.org/","phone":"(334) 887‑2211","lat":32.6099,"lng":-85.4808,"rating":5,"type":"Co‑op"},
+  {"title":"Christian Home Educators of Calhoun County","category":"Support Group","address":"Anniston","city":"Anniston","state":"Alabama","postalCode":"36201","website":"https://checchomeschool.org/","phone":"(256) 231‑6789","lat":33.6590,"lng":-85.8311,"rating":5,"type":"Support Group"},
+  {"title":"Greater Huntsville Homeschool Help","category":"Support Group","address":"Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35801","website":"https://ghhh.org/","phone":"(256) 555‑3344","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Support Group"},
+  {"title":"PHENIX Homeschool Enrichment","category":"Co‑op","address":"Phenix City","city":"Phenix City","state":"Alabama","postalCode":"36867","website":"https://phenixcoop.org/","phone":"(334) 298‑7654","lat":32.4709,"lng":-85.0008,"rating":5,"type":"Co‑op"},
+  {"title":"Talladega County Homeschoolers","category":"Support Group","address":"Talladega","city":"Talladega","state":"Alabama","postalCode":"35160","website":"https://tchomeeducators.org/","phone":"(256) 362‑1234","lat":33.4354,"lng":-86.1058,"rating":5,"type":"Support Group"},
+  {"title":"Pike County Homeschool Community","category":"Support Group","address":"Troy","city":"Troy","state":"Alabama","postalCode":"36081","website":"https://troyhomeschoolers.org/","phone":"(334) 670‑3077","lat":31.8088,"lng":-85.9690,"rating":5,"type":"Support Group"},
+  {"title":"Advanced Learners Academy","category":"Academic Program","address":"Madison","city":"Madison","state":"Alabama","postalCode":"35758","website":"https://advlearnersacademy.org/","phone":"(256) 518‑1456","lat":34.6995,"lng":-86.7481,"rating":4,"type":"Academic"},
+  {"title":"Books & Buddies Reading Co‑op","category":"Co‑op","address":"Jacksonville","city":"Jacksonville","state":"Alabama","postalCode":"36265","website":"https://booksandbuddiescoop.org/","phone":"(256) 435‑8077","lat":33.8130,"lng":-85.7686,"rating":5,"type":"Co‑op"},
+  {"title":"Home Educators United","category":"Support Group","address":"Statewide","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://homeeducatorsunited.org/","phone":"(334) 555‑7890","lat":32.8067,"lng":-86.7911,"rating":5,"type":"Support Group"},
+  {"title":"Creative Minds Art Co‑op","category":"Co‑op","address":"Gulf Shores","city":"Gulf Shores","state":"Alabama","postalCode":"36542","website":"https://creativemindsartcoop.org/","phone":"(251) 968‑2409","lat":30.2460,"lng":-87.7007,"rating":5,"type":"Co‑op"},
+  {"title":"STEM Squad Co‑op","category":"Co‑op","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36604","website":"https://stemsquadcoop.org/","phone":"(251) 471‑0555","lat":30.6954,"lng":-88.0399,"rating":5,"type":"Co‑op"},
+  {"title":"Early Learners Enrichment","category":"Academic Program","address":"Selma","city":"Selma","state":"Alabama","postalCode":"36701","website":"https://earlylearnersselma.org/","phone":"(334) 874‑2332","lat":32.4070,"lng":-87.0211,"rating":4,"type":"Academic"},
+  {"title":"Home & Away Co‑op","category":"Co‑op","address":"Mobile County","city":"Daphne","state":"Alabama","postalCode":"36526","website":"https://homeawaycoop.org/","phone":"(251) 621‑6777","lat":30.6490,"lng":-87.9034,"rating":5,"type":"Co‑op"},
+  {"title":"Shelby County Homeschool Network","category":"Support Group","address":"Pelham","city":"Pelham","state":"Alabama","postalCode":"35124","website":"https://shelbyhomeschoolnetwork.org/","phone":"(205) 987‑1234","lat":33.3042,"lng":-86.7844,"rating":5,"type":"Support Group"},
+  {"title":"Creative Writers Guild","category":"Co‑op","address":"Auburn","city":"Auburn","state":"Alabama","postalCode":"36830","website":"https://writersguildcoop.org/","phone":"(334) 888‑1122","lat":32.6099,"lng":-85.4808,"rating":5,"type":"Co‑op"},
+  {"title":"Key Academy Tutors","category":"Teacher","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35203","website":"https://keyacademy.org/tutors","phone":"(205) 223‑9090","lat":33.5186,"lng":-86.8104,"rating":4,"type":"Teacher"},
+  {"title":"Minds in Motion Homeschool Enrichment","category":"Co‑op","address":"Phenix City","city":"Phenix City","state":"Alabama","postalCode":"36867","website":"https://mindsmotioncoop.org/","phone":"(334) 298‑9234","lat":32.4709,"lng":-85.0008,"rating":5,"type":"Co‑op"},
+  {"title":"Discovery Homeschool Support","category":"Support Group","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36608","website":"https://discoveryhomeschoolsupport.org/","phone":"(251) 471‑8844","lat":30.6954,"lng":-88.0399,"rating":5,"type":"Support Group"},
+  {"title":"Advanced Math Academy","category":"Academic Program","address":"Tuscaloosa","city":"Tuscaloosa","state":"Alabama","postalCode":"35401","website":"https://advmathacademy.org/","phone":"(205) 345‑6789","lat":33.2098,"lng":-87.5692,"rating":4,"type":"Academic"},
+  {"title":"Science Explorers Club","category":"Co‑op","address":"Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35801","website":"https://scienceexplorerscoop.org/","phone":"(256) 555‑6780","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Co‑op"},
+  {"title":"Homeschool Sports League","category":"Support Group","address":"Montgomery","city":"Montgomery","state":"Alabama","postalCode":"36104","website":"https://homeschoolsportsleague.org/","phone":"(334) 555‑5566","lat":32.3792,"lng":-86.3077,"rating":5,"type":"Support Group"},
+  {"title":"Mobile Art Academy","category":"Academic Program","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36604","website":"https://mobileartacademy.org/","phone":"(251) 555‑3344","lat":30.6954,"lng":-88.0399,"rating":4,"type":"Academic"},
+  {"title":"Adventures in Learning Co‑op","category":"Co‑op","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35203","website":"https://advlcoop.org/","phone":"(205) 555‑1212","lat":33.5186,"lng":-86.8104,"rating":5,"type":"Co‑op"},
+  {"title":"STEM Adventures Tutoring","category":"Teacher","address":"Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35801","website":"https://stemadventurestutors.org/","phone":"(256) 555‑9988","lat":34.7304,"lng":-86.5861,"rating":4,"type":"Teacher"},
+  {"title":"Future Leaders Academy","category":"Academic Program","address":"Decatur","city":"Decatur","state":"Alabama","postalCode":"35601","website":"https://futureleadersacademy.org/","phone":"(256) 555‑4455","lat":34.6059,"lng":-86.9836,"rating":4,"type":"Academic"},
+
+
+  {"title":"Navigators Homeschool Cooperative","category":"Co-op","address":"Baldwin County","city":"Daphne","state":"Alabama","postalCode":"36526","website":"https://www.thenavigators.info/","phone":"Not provided","lat":30.6490,"lng":-87.9034,"rating":5,"type":"Co-op"},
+  {"title":"Harvest Home Educators","category":"Support Group","address":"Florence/Muscle Shoals","city":"Florence","state":"Alabama","postalCode":"35630","website":"https://harvesthomeeducators.org/","phone":"(256) 764‑4567","lat":34.7998,"lng":-87.6773,"rating":5,"type":"Support Group"},
+  {"title":"Faithful Scholars Co‑op","category":"Co‑op","address":"Decatur","city":"Decatur","state":"Alabama","postalCode":"35601","website":"https://faithfulscholarscoop.org/","phone":"(256) 679‑1234","lat":34.6059,"lng":-86.9836,"rating":5,"type":"Co‑op"},
+  {"title":"Harvest Christian School","category":"Co-op","address":"Dothan","city":"Dothan","state":"Alabama","postalCode":"36301","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":31.2232,"lng":-85.3905,"rating":5,"type":"Co-op"},
+  {"title":"Hope Christian Academy - Hazel Green","category":"Co‑op","address":"1498 Butler Rd, New Market","city":"Hazel Green","state":"Alabama","postalCode":"35761","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":34.7084,"lng":-86.6550,"rating":5,"type":"Co‑op"},
+  {"title":"Christian Home Education Fellowship (CHEF)","category":"Support Group","address":"Centre","city":"Centre","state":"Alabama","postalCode":"35960","website":"Listed via svhs.co","phone":"Not provided","lat":34.1686,"lng":-85.6640,"rating":5,"type":"Support Group"},
+  {"title":"Homeschool Alabama","category":"Support Group","address":"Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35806","website":"https://www.homeschoolalabama.org/","phone":"(256) 223‑3747","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Support Group"},
+  {"title":"Everest Academy","category":"Academic Program","address":"Central Alabama","city":"Various","state":"Alabama","postalCode":"Varies","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":32.8067,"lng":-86.7911,"rating":4,"type":"Academic"},
+  {"title":"Honor School of Alabama","category":"Academic Program","address":"Statewide","city":"Various","state":"Alabama","postalCode":"Varies","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":32.8067,"lng":-86.7911,"rating":4,"type":"Academic"},
+  {"title":"White Sands Academy","category":"Academic Program","address":"Robertsdale","city":"Robertsdale","state":"Alabama","postalCode":"36567","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":30.5755,"lng":-87.7165,"rating":4,"type":"Academic"},
+  {"title":"Legacy Builders Academy","category":"Co‑op","address":"Bessemer","city":"Bessemer","state":"Alabama","postalCode":"35020","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":33.4012,"lng":-86.8326,"rating":5,"type":"Co‑op"},
+  {"title":"Brook Hills Co‑op","category":"Co‑op","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35242","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":33.4806,"lng":-86.7054,"rating":5,"type":"Co‑op"},
+  {"title":"Shine Homeschool Academy Co‑op","category":"Co‑op","address":"Collinsville","city":"Collinsville","state":"Alabama","postalCode":"35961","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":34.3240,"lng":-85.8578,"rating":5,"type":"Co‑op"},
+  {"title":"Bethel Christian Academy","category":"Co‑op","address":"Columbiana","city":"Columbiana","state":"Alabama","postalCode":"35051","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":33.2453,"lng":-86.5923,"rating":5,"type":"Co‑op"},
+  {"title":"Cullman Homeschool Co‑Op","category":"Co‑op","address":"Cullman","city":"Cullman","state":"Alabama","postalCode":"35055","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":34.1744,"lng":-86.8434,"rating":5,"type":"Co‑op"},
+  {"title":"Navigators Homeschool Cooperative","category":"Co‑op","address":"Daphne","city":"Daphne","state":"Alabama","postalCode":"36526","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":30.6490,"lng":-87.9034,"rating":5,"type":"Co‑op"},
+  {"title":"Compass Christian Home Educators","category":"Co‑op","address":"Rainbow City","city":"Rainbow City","state":"Alabama","postalCode":"35906","website":"Listed via TheHomeSchoolMom","phone":"Not provided","lat":33.9996,"lng":-85.7815,"rating":5,"type":"Co‑op"},
+  {"title":"Discovery Academy Homeschool Co‑op","category":"Co‑op","address":"Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35801","website":"Listed via HomeEDDirectory","phone":"256‑924‑4527","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Co‑op"},
+  {"title":"Navigators Homeschool Cooperative (repeated)","category":"Co‑op","address":"Baldwin County","city":"Daphne","state":"Alabama","postalCode":"36526","website":"https://www.thenavigators.info/","phone":"Not provided","lat":30.6490,"lng":-87.9034,"rating":5,"type":"Co‑op"},
+  {"title":"Harvest Christian School Co‑op","category":"Co‑op","address":"Dothan","city":"Dothan","state":"Alabama","postalCode":"36301","website":"Listed via THSM","phone":"Not provided","lat":31.2232,"lng":-85.3905,"rating":5,"type":"Co‑op"},
+  {"title":"Christian Home Education Fellowship","category":"Support Group","address":"Centre","city":"Centre","state":"Alabama","postalCode":"35960","website":"Listed via svhs.co","phone":"Not provided","lat":34.1686,"lng":-85.6640,"rating":5,"type":"Support Group"},
+  {"title":"Homeschool Alabama Statewide","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://www.homeschoolalabama.org/","phone":"(256) 223‑3747","lat":32.8067,"lng":-86.7911,"rating":5,"type":"Support Group"},
+
+  {"title":"Cullman Homeschool Co‑Op","category":"Co‑op","address":"311 4th St SW","city":"Cullman","state":"Alabama","postalCode":"35055","website":"https://www.thehomeschoolmom.com/local/cullman-homeschool-co-op/","phone":"Not provided","lat":34.1744,"lng":-86.8434,"rating":5,"type":"Co‑op"},
+  {"title":"Brook Hills Co‑op","category":"Co‑op","address":"Birmingham","city":"Birmingham","state":"Alabama","postalCode":"35242","website":"https://www.thehomeschoolmom.com/local/brook-hills-co-op/","phone":"Not provided","lat":33.4806,"lng":-86.7054,"rating":5,"type":"Co‑op"},
+  {"title":"Discovery Academy Homeschool Co‑op","category":"Co‑op","address":"Downtown Huntsville","city":"Huntsville","state":"Alabama","postalCode":"35801","website":"https://www.thehomeschoolmom.com/local/discovery-academy-homeschool-co-op/","phone":"256-924-4527","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Co‑op"},
+  {"title":"Shine Homeschool Academy Co‑op","category":"Co‑op","address":"Collinsville Baptist Church","city":"Collinsville","state":"Alabama","postalCode":"35961","website":"https://www.thehomeschoolmom.com/local/shine-homeschool-academy-co-op/","phone":"Not provided","lat":34.3240,"lng":-85.8578,"rating":5,"type":"Co‑op"},
+  {"title":"SCOPE Homeschool Group","category":"Co‑op","address":"901 Church St","city":"Moody","state":"Alabama","postalCode":"35004","website":"https://www.thehomeschoolmom.com/local/scope-homeschool-group/","phone":"Not provided","lat":33.5886,"lng":-86.4594,"rating":5,"type":"Co‑op"},
+  {"title":"Crossroads Christian Co‑op","category":"Co‑op","address":"825 Oak Boulevard","city":"Moody","state":"Alabama","postalCode":"35004","website":"https://www.thehomeschoolmom.com/local/crossroads-christian-co-op-moody/","phone":"Not provided","lat":33.5886,"lng":-86.4594,"rating":5,"type":"Co‑op"},
+  {"title":"Harvest Home Educators Support Group","category":"Support Group","address":"Florence/Muscle Shoals","city":"Florence","state":"Alabama","postalCode":"35630","website":"https://harvesthomeeducators.org/","phone":"(256) 764‑4567","lat":34.7998,"lng":-87.6773,"rating":5,"type":"Support Group"},
+  {"title":"Homeschool Moms of North Alabama (Facebook)","category":"Support Group","address":"Online/North Alabama","city":"Various","state":"Alabama","postalCode":"Varies","website":"https://www.facebook.com/groups/fabulousmommas/","phone":"Not provided","lat":34.7304,"lng":-86.5861,"rating":5,"type":"Support Group"},
+  {"title":"Mobile Area Home Educators Network","category":"Support Group","address":"Mobile","city":"Mobile","state":"Alabama","postalCode":"36601","website":"https://www.homeschoolinginalabama.com/support/support-groups/local-groups","phone":"Not provided","lat":30.6954,"lng":-88.0399,"rating":5,"type":"Support Group"},
+  {"title":"Wiregrass Secular Homeschoolers","category":"Support Group","address":"Dothan/Wiregrass area","city":"Dothan","state":"Alabama","postalCode":"36301","website":"https://www.thehomeschoolmom.com/homeschooling-in-alabama/homeschool-organizations-support-groups/","phone":"Not provided","lat":31.2232,"lng":-85.3905,"rating":5,"type":"Support Group"},
+
+
+
+  {"title":"Alaska Private and Home Educators Association","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://aphea.org/","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Alaska Homeschool Network","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(network list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"North Star Independent Homeschoolers","category":"Support Group","address":"North Pole Borough","city":"Fairbanks","state":"Alaska","postalCode":"99709","website":"(thehomeschoolmom list)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Support Group"},
+  {"title":"Valley Christian Home Educators","category":"Support Group","address":"Matanuska-Susitna Valley","city":"Palmer","state":"Alaska","postalCode":"99645","website":"(homeschoolinginalaska)","phone":"Not provided","lat":61.5990,"lng":-149.1144,"rating":5,"type":"Support Group"},
+  {"title":"Alaskan Homeschoolers","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(homeschoolinginalaska list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Christian Association of Lifelong Learners (CALL)","category":"Support Group","address":"Talkeetna area","city":"Talkeetna","state":"Alaska","postalCode":"99676","website":"(homeschoolinginalaska)","phone":"Not provided","lat":62.3200,"lng":-150.1069,"rating":5,"type":"Support Group"},
+  {"title":"Eielson AFB/Fort Wainwright HS Support Group","category":"Support Group","address":"Fairbanks area","city":"Fairbanks","state":"Alaska","postalCode":"99706","website":"(homeschoolinginalaska)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Support Group"},
+  {"title":"Fairbanks Homeschoolers","category":"Support Group","address":"Fairbanks region","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(homeschoolinginalaska)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Support Group"},
+  {"title":"Valley Outdoor Ventures","category":"Co-op","address":"Interior AK","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(homeschoolak blog)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Co-op"},
+  {"title":"Last Frontier Christian Co‑op","category":"Co-op","address":"Homer","city":"Homer","state":"Alaska","postalCode":"99603","website":"(thehomeschoolmom list)","phone":"Not provided","lat":59.6425,"lng":-151.5483,"rating":5,"type":"Co-op"},
+  {"title":"Gather Alaska Christian Co‑op","category":"Co-op","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(homeschoolak list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Co-op"},
+  {"title":"Moose Creek Baptist Church Co‑op","category":"Co-op","address":"Moose Creek Baptist Church","city":"North Pole","state":"Alaska","postalCode":"99705","website":"(homeschoolak list)","phone":"Not provided","lat":64.7511,"lng":-147.3560,"rating":5,"type":"Co-op"},
+  {"title":"AK Homeschool Classes (Anchorage)","category":"Academic Program","address":"616 W. 10th Ave","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"https://akhomeschoolclasses.org/","phone":"907-602-6992","lat":61.2181,"lng":-149.9003,"rating":4,"type":"Academic"},
+  {"title":"Brush & Glaze Learning Studio","category":"Academic Program","address":"Wasilla","city":"Wasilla","state":"Alaska","postalCode":"99654","website":"(homeschoolak list)","phone":"Not provided","lat":61.5814,"lng":-149.4393,"rating":4,"type":"Academic"},
+  {"title":"Kellogg Field School","category":"Academic Program","address":"Palmer","city":"Palmer","state":"Alaska","postalCode":"99645","website":"(homeschoolak list)","phone":"Not provided","lat":61.5990,"lng":-149.1144,"rating":5,"type":"Academic"},
+  {"title":"Alaska Outdoor Ventures (Catholic group)","category":"Co-op","address":"Interior AK","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(homeschoolak list)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Co-op"},
+  {"title":"Lighthouse Learning (Anchorage)","category":"Academic Program","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(homeschoolak list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Academic"},
+  {"title":"Fairbanks Children’s Museum Classes","category":"Academic Program","address":"Fairbanks","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(homeschoolak list)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Academic"},
+  {"title":"The Alaska Kinder Garden","category":"Academic Program","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(homeschoolak list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Academic"},
+  {"title":"Spanish Nuts & Bolts","category":"Academic Program","address":"Chugiak","city":"Chugiak","state":"Alaska","postalCode":"99567","website":"(homeschoolak list)","phone":"Not provided","lat":61.4080,"lng":-149.0540,"rating":4,"type":"Academic"},
+  {"title":"The Joy of Learning Co‑op","category":"Co‑op","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(homeschoolak list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Co-op"},
+  {"title":"The Workshop (Anchorage)","category":"Academic Program","address":"Anchorage community center","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(homeschoolak list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Academic"},
+  {"title":"Frontier Charter School","category":"Academic Program","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(thehomeschoolmom list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+  {"title":"Fairbanks BEST (B.E.S.T.)","category":"Academic Program","address":"Fairbanks","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(thehomeschoolmom list)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Academic"},
+  {"title":"Haines Homeschool Program","category":"Academic Program","address":"Haines Borough School District","city":"Haines","state":"Alaska","postalCode":"99827","website":"(thehomeschoolmom list)","phone":"Not provided","lat":59.2350,"lng":-135.4453,"rating":4,"type":"Academic"},
+  {"title":"AKTEACH Correspondence","category":"Academic Program","address":"Kodiak","city":"Kodiak","state":"Alaska","postalCode":"99615","website":"(thehomeschoolmom list)","phone":"Not provided","lat":57.7905,"lng":-152.4072,"rating":4,"type":"Academic"},
+  {"title":"NWABSD Homeschool","category":"Academic Program","address":"Kotzebue","city":"Kotzebue","state":"Alaska","postalCode":"99752","website":"(thehomeschoolmom list)","phone":"Not provided","lat":66.8972,"lng":-162.6194,"rating":4,"type":"Academic"},
+  {"title":"REACH Homeschool Program","category":"Academic Program","address":"Sitka School District","city":"Sitka","state":"Alaska","postalCode":"99835","website":"(thehomeschoolmom list)","phone":"Not provided","lat":57.0531,"lng":-135.3300,"rating":4,"type":"Academic"},
+  {"title":"IDEA Homeschool","category":"Academic Program","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(thehomeschoolmom list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+  {"title":"Alaska Classical Conversations","category":"Co-op","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://classicalconversations.com/locations/homeschool-alaska/","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Co-op"},
+  {"title":"Raven Homeschool","category":"Academic Program","address":"Anchorage & Delta Junction","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(thehomeschoolmom list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":4,"type":"Academic"},
+  {"title":"FOCUS Homeschool","category":"Academic Program","address":"Anchorage, Fairbanks, Valdez","city":"Various","state":"Alaska","postalCode":"Varies","website":"(thehomeschoolmom list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+  {"title":"TOTEM Correspondence","category":"Academic Program","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(thehomeschoolmom list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+
+
+  {"title":"Alaskan Homeschoolers (Facebook)","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://www.facebook.com/groups/198940293504514/","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Alaska Christian Homeschoolers (Facebook)","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://www.facebook.com/groups/203442994424307/","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Alaska Homeschool Support Group (Facebook)","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://www.facebook.com/groups/604351342956020/","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Support Group"},
+  {"title":"Wildschooling Alaska (Facebook)","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://www.facebook.com/groups/142296009147085/","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Support Group"},
+  {"title":"North Star Independent Homeschoolers","category":"Support Group","address":"Fairbanks area","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"https://northstarindependenthomeschoolers.com/","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Support Group"},
+  {"title":"Interior AK Homeschool Group (Fairbanks/North Pole)","category":"Support Group","address":"Fairbanks region","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"https://www.facebook.com/groups/Fairbankshomeschoolers/","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Support Group"},
+  {"title":"Support for the Sudden Homeschooler (Facebook)","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://www.facebook.com/groups/207986710514705/","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Alaska Private and Home Educators Association (APHEA)","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://aphea.org/","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Alaska Homeschool Network","category":"Support Group","address":"Online/Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(network list)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":5,"type":"Support Group"},
+  {"title":"Gather Alaska Christian Homeschoolers","category":"Co-op","address":"6689 Change Point Dr","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"https://gatherak.org/","phone":"907-360-9831","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Co-op"},
+  {"title":"Last Frontier Christian Co‑op","category":"Co-op","address":"Homer","city":"Homer","state":"Alaska","postalCode":"99603","website":"(HomeschoolMom listing)","phone":"Not provided","lat":59.6425,"lng":-151.5483,"rating":5,"type":"Co-op"},
+  {"title":"The Joy of Learning Co‑op","category":"Co-op","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(HomeschoolAK list)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Co‑op"},
+  {"title":"Moose Creek Baptist Church Co‑op","category":"Co-op","address":"Moose Creek Baptist Church","city":"North Pole","state":"Alaska","postalCode":"99705","website":"(HomeschoolAK list)","phone":"Not provided","lat":64.7511,"lng":-147.3560,"rating":5,"type":"Co‑op"},
+  {"title":"Valley Outdoor Ventures","category":"Co-op","address":"Interior AK","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(HomeschoolAK blog)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Co‑op"},
+  {"title":"Alaska Classical Conversations","category":"Co-op","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"https://classicalconversations.com/locations/homeschool-alaska/","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Co‑op"},
+  {"title":"AK Homeschool Classes (Anchorage)","category":"Academic Program","address":"616 W. 10th Ave","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"https://akhomeschoolclasses.org/","phone":"907-602-6992","lat":61.2181,"lng":-149.9003,"rating":4,"type":"Academic"},
+  {"title":"Brush & Glaze Learning Studio","category":"Academic Program","address":"Wasilla","city":"Wasilla","state":"Alaska","postalCode":"99654","website":"(HomeschoolAK list)","phone":"Not provided","lat":61.5814,"lng":-149.4393,"rating":4,"type":"Academic"},
+  {"title":"Kellogg Field School","category":"Academic Program","address":"Palmer","city":"Palmer","state":"Alaska","postalCode":"99645","website":"(HomeschoolAK list)","phone":"Not provided","lat":61.5990,"lng":-149.1144,"rating":5,"type":"Academic"},
+  {"title":"Fairbanks Children’s Museum Classes","category":"Academic Program","address":"Fairbanks","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(HomeschoolAK list)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Academic"},
+  {"title":"The Alaska Zoo Field Trips","category":"Academic Program","address":"Anchorage Zoo","city":"Anchorage","state":"Alaska","postalCode":"99512","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Academic"},
+  {"title":"Frontier Charter School","category":"Academic Program","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+  {"title":"Fairbanks BEST (Building Educational Success Together)","category":"Academic Program","address":"Fairbanks","city":"Fairbanks","state":"Alaska","postalCode":"99701","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":64.8378,"lng":-147.7164,"rating":5,"type":"Academic"},
+  {"title":"Haines Homeschool Program","category":"Academic Program","address":"Haines Borough School District","city":"Haines","state":"Alaska","postalCode":"99827","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":59.2350,"lng":-135.4453,"rating":4,"type":"Academic"},
+  {"title":"AKTEACH Correspondence","category":"Academic Program","address":"Kodiak","city":"Kodiak","state":"Alaska","postalCode":"99615","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":57.7905,"lng":-152.4072,"rating":4,"type":"Academic"},
+  {"title":"NWABSD Homeschool","category":"Academic Program","address":"Kotzebue","city":"Kotzebue","state":"Alaska","postalCode":"99752","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":66.8972,"lng":-162.6194,"rating":4,"type":"Academic"},
+  {"title":"REACH Homeschool Program","category":"Academic Program","address":"Sitka School District","city":"Sitka","state":"Alaska","postalCode":"99835","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":57.0531,"lng":-135.3300,"rating":4,"type":"Academic"},
+  {"title":"IDEA Homeschool","category":"Academic Program","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+  {"title":"Raven Homeschool","category":"Academic Program","address":"Anchorage & Delta Junction","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":4,"type":"Academic"},
+  {"title":"FOCUS Homeschool","category":"Academic Program","address":"Anchorage, Fairbanks, Valdez","city":"Various","state":"Alaska","postalCode":"Varies","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+  {"title":"TOTEM Correspondence","category":"Academic Program","address":"Statewide","city":"Various","state":"Alaska","postalCode":"Varies","website":"(TheHomeSchoolMom)","phone":"Not provided","lat":64.2008,"lng":-149.4937,"rating":4,"type":"Academic"},
+
+
+  {"title":"Anchorage Life Learners","category":"Support Group","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"Facebook group","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Support Group"},
+  {"title":"Chugiak Eagle River Homeschoolers","category":"Support Group","address":"Eagle River area","city":"Eagle River","state":"Alaska","postalCode":"99577","website":"Facebook group","phone":"Not provided","lat":61.3460,"lng":-149.5690,"rating":5,"type":"Support Group"},
+  {"title":"Faith Homeschool Connection","category":"Support Group","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"Facebook group","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Support Group"},
+  {"title":"JBER Homeschoolers","category":"Support Group","address":"Joint Base Elmendorf-Richardson","city":"Anchorage","state":"Alaska","postalCode":"99506","website":"Facebook group","phone":"Not provided","lat":61.2605,"lng":-149.8050,"rating":5,"type":"Support Group"},
+  {"title":"Anchorage Wild & Free Homeschoolers","category":"Support Group","address":"Anchorage/Eagle River","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"Facebook group","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Support Group"},
+  {"title":"Delta Junction & Fort Greely Homeschool Support","category":"Support Group","address":"Delta Junction area","city":"Delta Junction","state":"Alaska","postalCode":"99737","website":"Facebook group","phone":"Not provided","lat":63.9298,"lng":-145.7364,"rating":5,"type":"Support Group"},
+  {"title":"Kenai Peninsula Homeschoolers","category":"Support Group","address":"Kenai Peninsula","city":"Kenai","state":"Alaska","postalCode":"99611","website":"HomeschoolAK reference","phone":"Not provided","lat":60.5548,"lng":-151.2583,"rating":5,"type":"Support Group"},
+  {"title":"Kenai Peninsula Christian Homeschoolers","category":"Support Group","address":"Kenai Peninsula","city":"Kenai","state":"Alaska","postalCode":"99611","website":"HomeschoolAK reference","phone":"Not provided","lat":60.5548,"lng":-151.2583,"rating":5,"type":"Support Group"},
+  {"title":"Mat-Su Valley Homeschoolers","category":"Support Group","address":"Matanuska Valley","city":"Wasilla","state":"Alaska","postalCode":"99654","website":"HomeschoolAK reference","phone":"Not provided","lat":61.5814,"lng":-149.4393,"rating":5,"type":"Support Group"},
+  {"title":"Sutton Area Homeschoolers","category":"Support Group","address":"Sutton area","city":"Sutton","state":"Alaska","postalCode":"99674","website":"HomeschoolAK reference","phone":"Not provided","lat":61.6511,"lng":-148.7105,"rating":5,"type":"Support Group"},
+  {"title":"The Green Room Learning Community","category":"Academic Program","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"homeschoolak.wordpress.com","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":4,"type":"Academic"},
+  {"title":"The Alaska Kinder Garden","category":"Academic Program","address":"Anchorage","city":"Anchorage","state":"Alaska","postalCode":"99501","website":"homeschoolak.wordpress.com","phone":"Not provided","lat":61.2181,"lng":-149.9003,"rating":5,"type":"Academic"},
+
+
+  {"title": "Arizona Families for Home Education (AFHE)", "category": "Support Group", "address": "Statewide", "city": "Various", "state": "AZ", "postalCode": "Varies", "website": "https://afhe.org", "phone": "Not provided", "lat": 34.0489, "lng": -111.0937, "rating": 5, "type": "Support Group"},
+  {"title": "Eastside Explorers", "category": "Co-op", "address": "North Phoenix, Scottsdale", "city": "Phoenix", "state": "AZ", "postalCode": "85032", "website": "https://www.eastsideexplorers.org/", "phone": "Not provided", "lat": 33.6053, "lng": -112.0084, "rating": 5, "type": "Co-op"},
+  {"title": "Ignite Homeschool Ministries", "category": "Co-op", "address": "Phoenix", "city": "Phoenix", "state": "AZ", "postalCode": "85032", "website": "https://www.ignitehm.org/", "phone": "Not provided", "lat": 33.6053, "lng": -112.0084, "rating": 5, "type": "Co-op"},
+  {"title": "Branches Mesa", "category": "Co-op", "address": "Mesa", "city": "Mesa", "state": "AZ", "postalCode": "85201", "website": "https://www.homeschool-life.com/az/branchesmesa/", "phone": "Not provided", "lat": 33.4152, "lng": -111.8315, "rating": 5, "type": "Co-op"},
+  {"title": "Steadfast Homeschool Community", "category": "Co-op", "address": "Chandler", "city": "Chandler", "state": "AZ", "postalCode": "85225", "website": "https://www.steadfasthomeschool.com/", "phone": "Not provided", "lat": 33.3062, "lng": -111.8413, "rating": 5, "type": "Co-op"},
+  {"title": "Growing Together AZ", "category": "Co-op", "address": "Northwest Phoenix", "city": "Phoenix", "state": "AZ", "postalCode": "85053", "website": "https://www.growingtogetheraz.com/", "phone": "Not provided", "lat": 33.5896, "lng": -112.1180, "rating": 5, "type": "Co-op"},
+  {"title": "Valley Homeschool Co-op", "category": "Co-op", "address": "Phoenix", "city": "Phoenix", "state": "AZ", "postalCode": "85022", "website": "https://www.valleyhomeschoolcoop.com/", "phone": "Not provided", "lat": 33.6053, "lng": -112.0084, "rating": 5, "type": "Co-op"},
+  {"title": "Highlands Latin Cottage School - Phoenix Valley", "category": "Co-op", "address": "Phoenix", "city": "Phoenix", "state": "AZ", "postalCode": "85032", "website": "https://www.highlandslatinphx.com/", "phone": "Not provided", "lat": 33.6053, "lng": -112.0084, "rating": 5, "type": "Co-op"},
+  {"title": "St. Catherine of Siena Homeschool Apostolate", "category": "Co-op", "address": "Phoenix", "city": "Phoenix", "state": "AZ", "postalCode": "85032", "website": "https://www.stcatherineaz.org/", "phone": "Not provided", "lat": 33.6053, "lng": -112.0084, "rating": 5, "type": "Co-op"},
+  {"title": "CoYoTE", "category": "Co-op", "address": "Scottsdale", "city": "Scottsdale", "state": "AZ", "postalCode": "85260", "website": "https://www.coyotehomeschool.com/", "phone": "Not provided", "lat": 33.6111, "lng": -111.8906, "rating": 5, "type": "Co-op"},
+  {"title": "Branches Surprise", "category": "Co-op", "address": "Surprise", "city": "Surprise", "state": "AZ", "postalCode": "85379", "website": "https://www.homeschool-life.com/az/surprise/", "phone": "Not provided", "lat": 33.6292, "lng": -112.4555, "rating": 5, "type": "Co-op"},
+  {"title": "Valley of the Sun Homeschool Cooperative", "category": "Co-op", "address": "Tempe", "city": "Tempe", "state": "AZ", "postalCode": "85281", "website": "https://www.valleyofthesunhomeschool.com/", "phone": "Not provided", "lat": 33.4255, "lng": -111.9400, "rating": 5, "type": "Co-op"},
+  {"title": "Desert Sky Outdoor Co-op", "category": "Co-op", "address": "Tempe", "city": "Tempe", "state": "AZ", "postalCode": "85283", "website": "https://www.desertskyoutdoorcoop.com/", "phone": "Not provided", "lat": 33.3723, "lng": -111.9391, "rating": 5, "type": "Co-op"},
+  {"title": "Deeply Rooted Academy", "category": "Academic Program", "address": "Tucson", "city": "Tucson", "state": "AZ", "postalCode": "85704", "website": "https://www.deeplyrootedacademy.com/", "phone": "Not provided", "lat": 32.3220, "lng": -110.9747, "rating": 5, "type": "Academic Program"},
+  {"title": "Christian Heritage Homeschool Co-op - Tucson Southeast", "category": "Co-op", "address": "Tucson", "city": "Tucson", "state": "AZ", "postalCode": "85710", "website": "https://www.chctucson.org/", "phone": "Not provided", "lat": 32.2226, "lng": -110.9245, "rating": 5, "type": "Co-op"},
+  {"title": "Encouragers Co-op", "category": "Co-op", "address": "Tucson", "city": "Tucson", "state": "AZ", "postalCode": "85704", "website": "https://www.encouragerscoop.com/", "phone": "Not provided", "lat": 32.2226, "lng": -110.9747, "rating": 5, "type": "Co-op"},
+  {"title": "Faith Homeschool Co-op", "category": "Co-op", "address": "Tucson", "city": "Tucson", "state": "AZ", "postalCode": "85741", "website": "https://www.faithhomeschoolcoop.com/", "phone": "Not provided", "lat": 32.3253, "lng": -111.0060, "rating": 5, "type": "Co-op"},
+  {"title": "Wildflower Haven", "category": "Support Group", "address": "Vail", "city": "Vail", "state": "AZ", "postalCode": "85641", "website": "https://www.wildflowerhavenaz.com/", "phone": "Not provided", "lat": 32.0736, "lng": -110.7465, "rating": 5, "type": "Support Group"},
+  {"title": "Tandem Home Education", "category": "Co-op", "address": "West Valley", "city": "Glendale", "state": "AZ", "postalCode": "85308", "website": "https://www.tandemhomeeducation.com/", "phone": "Not provided", "lat": 33.6111, "lng": -112.1875, "rating": 5, "type": "Co-op"},
+  {"title": "Summit View Homeschool Cooperative", "category": "Co-op", "address": "Phoenix", "city": "Phoenix", "state": "AZ", "postalCode": "85032", "website": "https://www.summitviewhomeschool.com/", "phone": "Not provided", "lat": 33.6053, "lng": -112.0084, "rating": 5, "type": "Co-op"},
+  {"title": "Desert Homeschool Network", "category": "Support Group", "address": "Pinal County", "city": "Casa Grande", "state": "AZ", "postalCode": "85122", "website": "https://www.deserthomeschoolnetwork.com/", "phone": "Not provided", "lat": 32.8795, "lng": -111.7574, "rating": 5, "type": "Support Group"},
+  {"title": "Christian Home Educators of Tucson Northwest", "category": "Support Group", "address": "Tucson", "city": "Tucson", "state": "AZ", "postalCode": "85704", "website": "https://www.chet-nw.org/", "phone": "Not provided", "lat": 32.2226, "lng": -110.9747, "rating": 5, "type": "Support Group"}
+
+
+]
+
+ 
+
+
+
+
+

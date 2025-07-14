@@ -1,0 +1,5 @@
+.daily-logs-wrapper {
+  max-width: 800px;       /* Set desired width */
+  margin: 0 auto;         /* Center the content */
+  padding: 20px 15px;
+}

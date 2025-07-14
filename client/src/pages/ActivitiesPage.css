@@ -1,0 +1,60 @@
+/* src/pages/ActivitiesPage.css */
+
+.activities-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.activity-list {
+  margin-top: 20px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.card-subtitle {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+button.btn-danger {
+  border-radius: 50%;
+  padding: 0.2rem 0.6rem;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+button.btn-danger:hover {
+  background-color: #c82333;
+}
+
+form .form-label {
+  font-weight: 600;
+  color: #333;
+}
+
+form .form-control {
+  font-size: 0.95rem;
+}
+
+form button[type="submit"] {
+  padding: 0.5rem 1.5rem;
+  font-weight: 600;
+}

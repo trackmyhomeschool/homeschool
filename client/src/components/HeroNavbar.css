@@ -1,0 +1,60 @@
+.hero-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1.5rem;
+  border-bottom: 1px solid #eee;
+  flex-wrap: wrap;
+  background-color: white;
+}
+
+/* Logo + Title Section */
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem; /* left margin */
+}
+
+.nav-logo {
+  height: 30px;
+}
+
+.nav-title {
+  font-size: 1rem;          /* reduced font size */
+  font-weight: 600;
+  color: #003366;
+  line-height: 1;           /* aligns better with buttons */
+}
+
+/* Central Navigation Links */
+.nav-center {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-center a {
+  text-decoration: none;
+  color: #002244;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.nav-center a:hover {
+  color: #007bff;
+}
+
+/* Right Buttons */
+.nav-right {
+  display: flex;
+  gap: 0.5rem;
+  margin-right: 1rem; /* right margin */
+}
+
+.nav-right .btn {
+  padding: 0.3rem 0.9rem;
+  font-size: 0.85rem;
+  height: 32px; /* aligns with title */
+  display: flex;
+  align-items: center;
+}

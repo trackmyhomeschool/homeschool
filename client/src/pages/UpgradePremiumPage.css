@@ -1,0 +1,24 @@
+.btn {
+  display: inline-block;
+  border: none;
+  border-radius: 7px;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 10px 22px;
+  cursor: pointer;
+  background: #20a35e;
+  color: #fff;
+  transition: background 0.18s;
+}
+.btn:hover {
+  background: #15904f;
+}
+.btn-outline {
+  background: #fff;
+  border: 1.2px solid #b2e8cc;
+  color: #1d8f57;
+}
+.btn-outline:hover {
+  background: #f4fffa;
+  border-color: #20a35e;
+}

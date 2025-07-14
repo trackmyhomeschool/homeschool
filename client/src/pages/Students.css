@@ -1,0 +1,13 @@
+.custom-table {
+  border-collapse: collapse;
+}
+
+.custom-table td,
+.custom-table th {
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.custom-table thead th {
+  border-top: none !important;
+}
