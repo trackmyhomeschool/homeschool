@@ -41,6 +41,9 @@ app.use('/api/states', require('./routes/stateRoutes'));
 app.use('/api/contact', require('./routes/contact'));
 app.use('/api/homeschoolresources', homeschoolResourceRoutes);
 app.use('/api/homeschoolresources', adminResourceRoutes);
+app.get('/hello', (req, res) => {
+  res.send('Hello from deployed server!');
+});
 
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 

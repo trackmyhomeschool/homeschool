@@ -13,6 +13,8 @@ function LandingPage() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const navigate = useNavigate(); // <-- useNavigate hook
 
+  console.log("LandingPage rendered");
+
   // Auth check (calls /api/users/me, expects token cookie)
   useEffect(() => {
     fetch(`${process.env.REACT_APP_API_URL}/api/users/me`, { credentials: 'include' })
